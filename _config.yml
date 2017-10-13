@@ -1,4 +1,6 @@
 title: ice age coming
+theme: jekyll-theme-primer
+show_downloads: false
 markdown: kramdown
 kramdown:
   input: GFM
