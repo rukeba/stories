@@ -23,12 +23,12 @@ layout: page
     - Standing in Silence 
     - Stories From Elsewhere 
 - Lord Huron
-	- Lonesome Dreams 
+    - Lonesome Dreams 
 - Everything Is Made in China 
-	- Amber 
+    - Amber 
 - Asgeir 
 - Beck 
-	- Morning Phase 
+    - Morning Phase 
 - Ben Howard 
     - Every Kingdom 
 - James Vincent McMorrow 
@@ -38,26 +38,26 @@ layout: page
 ### Рок
 
 - Coldplay 
-	- Parachutes 
-	- A Rush Of Blood To The Head 
-	- X & Y 
-	- Viva La Vida Or Death And All His Friends 
-	- Mylo Xyloto 
+    - Parachutes 
+    - A Rush Of Blood To The Head 
+    - X & Y 
+    - Viva La Vida Or Death And All His Friends 
+    - Mylo Xyloto 
 - Сегодняночью
-	- Долгая дорога в дюймах
+    - Долгая дорога в дюймах
     - Плохие правила хорошего тона
     - Проституция
     - В ладонях осени
 - Ryan Adams 
-	- Ryan Adams 
+    - Ryan Adams 
 - U2
-	- How To Dismantle An Atomic Bomb 
+    - How To Dismantle An Atomic Bomb 
 
 
 ### Джаз
 
 - George Shearing
-	- Jazz Moments 
+    - Jazz Moments 
 - Chet Baker 
 - Herb Alpert 
 
@@ -65,9 +65,9 @@ layout: page
 
 - Röyksopp 
 - Crookram
-	- Through Windows 
+    - Through Windows 
 - Air 
-	- Moon Safari 
+    - Moon Safari 
 - Mokhov 
     - Magic Times 
 - Hiatus
@@ -76,10 +76,12 @@ layout: page
 ### Поп
 
 - Just Jack
-	- Overtones 
+    - Overtones 
 - John Mayer
-	- Room for Squares
+    - Room for Squares
 - Damien Rice
-	- O 
-    - 9 
+    - O
+    - 9
+- Beck
+    - Colors (2017)
     
