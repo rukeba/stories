@@ -20,12 +20,16 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 permalink: /:categories/:slug/
 date_format: "%-d %b %Y, %H:%M"
+highlighter: none
 
 google_analytics: UA-1638627-8
 
-markdown: kramdown
 plugins:
   - jekyll-feed
+markdown: kramdown
+kramdown:
+   syntax_highlighter_opts:
+      disable: true
 
 feed:
   path: /by-the-way/feed/
