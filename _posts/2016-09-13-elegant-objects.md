@@ -3,6 +3,7 @@ layout: post
 title:  'Конспект книги «Elegant Objects»'
 slug: 'elegant-objects'
 date:  2016-09-13 18:01:00 +0300
+category: by-the-way
 tags: ["books","dev"]
 ---
 

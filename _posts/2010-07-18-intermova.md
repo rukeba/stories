@@ -3,6 +3,7 @@ layout: post
 title:  'Сайт intermova.dp.ua'
 slug: 'intermova'
 date:  2010-07-18 19:14:00 +0300
+category: by-the-way
 tags: ["done","web"]
 ---
 

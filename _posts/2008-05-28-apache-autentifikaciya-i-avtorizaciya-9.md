@@ -3,6 +3,7 @@ layout: post
 title:  'apache: аутентификация и авторизация #9: mod_authn_default, mod_authz_default'
 slug: 'apache-autentifikaciya-i-avtorizaciya-9'
 date:  2008-05-28 08:23:00 +0300
+category: by-the-way
 tags: ["apache"]
 ---
 

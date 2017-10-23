@@ -3,6 +3,7 @@ layout: post
 title:  'Доставляя счастье'
 slug: 'delivering-happiness'
 date:  2013-02-17 20:39:00 +0300
+category: by-the-way
 tags: ["books"]
 ---
 

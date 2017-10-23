@@ -3,6 +3,7 @@ layout: post
 title:  'Синдром эмигранта'
 slug: 'emigrant-syndrome'
 date:  2015-03-23 00:09:00 +0300
+category: by-the-way
 tags: ["emigration","life","ukraine"]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  'Прошла её пора'
 slug: 'proshla-eyo-pora'
 date:  2012-02-28 23:25:00 +0300
+category: by-the-way
 tags: ["life"]
 ---
 

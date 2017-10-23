@@ -3,6 +3,7 @@ layout: post
 title:  'Сначала скажите «нет»'
 slug: 'snachala-skazhite-net-jim-camp'
 date:  2011-04-29 09:03:00 +0300
+category: by-the-way
 tags: ["books"]
 ---
 

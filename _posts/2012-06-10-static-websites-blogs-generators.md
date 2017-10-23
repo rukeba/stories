@@ -3,6 +3,7 @@ layout: post
 title:  'Генераторы статических сайтов и блогов'
 slug: 'static-websites-blogs-generators'
 date:  2012-06-10 22:15:00 +0300
+category: by-the-way
 tags: ["python","software","web"]
 ---
 

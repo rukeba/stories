@@ -3,6 +3,7 @@ layout: post
 title:  'Комментирование с помощью JS-Kit'
 slug: 'kommentirovanie-s-pomoshyu-js-kit'
 date:  2008-12-01 21:34:00 +0300
+category: by-the-way
 tags: ["a1blog","web"]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  'Сайт borowski.dp.ua'
 slug: 'sajt-borowskidpua'
 date:  2008-07-20 13:34:00 +0300
+category: by-the-way
 tags: ["design","done","web"]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  'apache: аутентификация и авторизация #5: mod_authz_user'
 slug: 'apache-autentifikaciya-i-avtorizaciya-5'
 date:  2008-05-13 09:02:00 +0300
+category: by-the-way
 tags: ["apache"]
 ---
 

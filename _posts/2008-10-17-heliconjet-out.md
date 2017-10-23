@@ -3,6 +3,7 @@ layout: post
 title:  'HeliconJet is out!'
 slug: 'heliconjet-out'
 date:  2008-10-17 16:03:00 +0300
+category: by-the-way
 tags: ["done","iis"]
 ---
 

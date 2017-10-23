@@ -3,6 +3,7 @@ layout: post
 title:  'apache: аутентификация и авторизация #8: mod_authn_anon'
 slug: 'apache-autentifikaciya-i-avtorizaciya-8'
 date:  2008-05-25 10:51:00 +0300
+category: by-the-way
 tags: ["apache"]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  'apache: аутентификация и авторизация #3: mod_auth_basic'
 slug: 'apache-autentifikaciya-i-avtorizaciya-3'
 date:  2008-04-27 14:32:00 +0300
+category: by-the-way
 tags: ["apache"]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  'Переехал на nginx'
 slug: 'pereehal-na-nginx'
 date:  2008-11-06 11:14:00 +0300
+category: by-the-way
 tags: ["a1blog","nginx","web"]
 ---
 

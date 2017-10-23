@@ -3,6 +3,7 @@ layout: post
 title:  'Тюрьма и воля'
 slug: 'tyurma-i-volya'
 date:  2013-01-19 14:45:00 +0300
+category: by-the-way
 tags: ["books"]
 ---
 

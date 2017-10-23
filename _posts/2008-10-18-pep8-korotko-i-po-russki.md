@@ -3,6 +3,7 @@ layout: post
 title:  'PEP8 коротко и по-русски'
 slug: 'pep8-korotko-i-po-russki'
 date:  2008-10-18 21:34:00 +0300
+category: by-the-way
 tags: ["python"]
 ---
 

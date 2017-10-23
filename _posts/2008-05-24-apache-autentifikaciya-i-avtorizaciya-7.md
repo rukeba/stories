@@ -3,6 +3,7 @@ layout: post
 title:  'apache: аутентификация и авторизация #7: mod_authz_groupfile'
 slug: 'apache-autentifikaciya-i-avtorizaciya-7'
 date:  2008-05-24 18:04:00 +0300
+category: by-the-way
 tags: ["apache"]
 ---
 

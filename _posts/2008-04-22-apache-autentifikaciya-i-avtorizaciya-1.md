@@ -3,6 +3,7 @@ layout: post
 title:  'apache: аутентификация и авторизация. #1'
 slug: 'apache-autentifikaciya-i-avtorizaciya-1'
 date:  2008-04-22 18:52:00 +0300
+category: by-the-way
 tags: ["apache"]
 ---
 

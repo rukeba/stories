@@ -3,6 +3,7 @@ layout: post
 title:  'Запрет кеширования по HTTP'
 slug: 'disable-http-caching'
 date:  2013-04-20 00:30:00 +0300
+category: by-the-way
 tags: ["dev","http"]
 ---
 

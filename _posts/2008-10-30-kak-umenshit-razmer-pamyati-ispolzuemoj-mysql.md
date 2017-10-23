@@ -3,6 +3,7 @@ layout: post
 title:  'Как уменьшить размер памяти, используемой mysql'
 slug: 'kak-umenshit-razmer-pamyati-ispolzuemoj-mysql'
 date:  2008-10-30 09:33:00 +0300
+category: by-the-way
 tags: ["howto","mysql"]
 ---
 

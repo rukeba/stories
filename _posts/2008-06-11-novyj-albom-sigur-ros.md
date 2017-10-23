@@ -3,6 +3,7 @@ layout: post
 title:  'Новый альбом Sigur Ros'
 slug: 'novyj-albom-sigur-ros'
 date:  2008-06-11 18:14:00 +0300
+category: by-the-way
 tags: ["music"]
 ---
 

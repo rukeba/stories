@@ -3,6 +3,7 @@ layout: post
 title:  'Сайт www.poparsya.dp.ua'
 slug: 'sajt-wwwpoparsyadpua'
 date:  2007-09-26 19:30:00 +0300
+category: by-the-way
 tags: ["design","done","web"]
 ---
 

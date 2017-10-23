@@ -3,6 +3,7 @@ layout: post
 title:  'Coldplay: Viva la Vida'
 slug: 'coldplay-viva-la-vida'
 date:  2008-08-05 21:14:00 +0300
+category: by-the-way
 tags: ["music"]
 ---
 

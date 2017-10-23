@@ -3,6 +3,7 @@ layout: post
 title:  'Редизайн сайта www.helicontech.com'
 slug: 'redizajn-sajta-wwwhelicontechcom'
 date:  2008-04-08 08:48:00 +0300
+category: by-the-way
 tags: ["design","done","web"]
 ---
 

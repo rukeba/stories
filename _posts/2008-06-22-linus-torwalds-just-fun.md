@@ -3,6 +3,7 @@ layout: post
 title:  'Linus Torvalds, Just for fun'
 slug: 'linus-torwalds-just-fun'
 date:  2008-06-22 20:34:00 +0300
+category: by-the-way
 tags: ["books","linux"]
 ---
 

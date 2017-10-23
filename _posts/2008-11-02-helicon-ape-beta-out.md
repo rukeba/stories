@@ -3,6 +3,7 @@ layout: post
 title:  'Helicon Ape beta is out!'
 slug: 'helicon-ape-beta-out'
 date:  2008-11-02 18:39:00 +0300
+category: by-the-way
 tags: ["apache","done","iis","web"]
 ---
 

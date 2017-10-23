@@ -3,6 +3,7 @@ layout: post
 title:  'Как писатель Бабель работал над текстом'
 slug: 'babel-text'
 date:  2016-02-06 00:40:00 +0300
+category: by-the-way
 tags: ["books"]
 ---
 

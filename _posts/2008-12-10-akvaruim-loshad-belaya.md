@@ -3,6 +3,7 @@ layout: post
 title:  'Акваруим / Лошадь белая'
 slug: 'akvaruim-loshad-belaya'
 date:  2008-12-10 09:00:00 +0300
+category: by-the-way
 tags: ["music"]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  'Имена почтовых ящиков в gmail'
 slug: 'imena-pochtovyh-yashikov-v-gmail'
 date:  2008-03-13 09:29:00 +0300
+category: by-the-way
 tags: ["google"]
 ---
 

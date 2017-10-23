@@ -3,6 +3,7 @@ layout: post
 title:  'Чай по умолчанию'
 slug: 'default-tea'
 date:  2013-04-23 00:37:00 +0300
+category: by-the-way
 tags: ["tea"]
 ---
 

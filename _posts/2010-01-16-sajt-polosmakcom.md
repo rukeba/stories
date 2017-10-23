@@ -3,6 +3,7 @@ layout: post
 title:  'Сайт polosmak.com'
 slug: 'sajt-polosmakcom'
 date:  2010-01-16 22:20:00 +0300
+category: by-the-way
 tags: ["design","django","done","web"]
 ---
 

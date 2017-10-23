@@ -3,6 +3,7 @@ layout: post
 title:  'Django 1.0 released!'
 slug: 'django-10-released'
 date:  2008-09-04 08:42:00 +0300
+category: by-the-way
 tags: ["django","web"]
 ---
 

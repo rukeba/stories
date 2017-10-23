@@ -3,6 +3,7 @@ layout: post
 title:  'apache: аутентификация и авторизация #4: mod_authn_file'
 slug: 'apache-autentifikaciya-i-avtorizaciya-4'
 date:  2008-05-12 10:11:00 +0300
+category: by-the-way
 tags: ["apache"]
 ---
 

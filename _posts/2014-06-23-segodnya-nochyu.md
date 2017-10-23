@@ -3,6 +3,7 @@ layout: post
 title:  'Сегодняночью'
 slug: 'segodnya-nochyu'
 date:  2014-06-23 00:14:00 +0300
+category: by-the-way
 tags: ["music"]
 ---
 

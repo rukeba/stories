@@ -3,6 +3,7 @@ layout: post
 title:  'В какой последовательности апач обрабатывет свои конфигурационные секции. '
 slug: 'v-kakoj-posledovatelnosti-apach-obrabatyvet-svoi-k'
 date:  2008-07-02 10:03:00 +0300
+category: by-the-way
 tags: ["apache"]
 ---
 

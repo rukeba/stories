@@ -3,6 +3,7 @@ layout: post
 title:  'RewriteCond и %{SERVER_PORT}'
 slug: 'rewritecond-i-server_port'
 date:  2008-09-08 19:27:00 +0300
+category: by-the-way
 tags: ["apache","iis"]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  'Markdown синтаксис по-русски'
 slug: 'markdown-sintaksis-po-russki'
 date:  2009-02-28 21:01:00 +0300
+category: by-the-way
 tags: ["python","web"]
 ---
 

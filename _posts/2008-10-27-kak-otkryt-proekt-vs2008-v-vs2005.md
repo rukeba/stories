@@ -3,6 +3,7 @@ layout: post
 title:  'Как открыть проект VS2008 в VS2005'
 slug: 'kak-otkryt-proekt-vs2008-v-vs2005'
 date:  2008-10-27 09:00:00 +0300
+category: by-the-way
 tags: [".net","howto"]
 ---
 

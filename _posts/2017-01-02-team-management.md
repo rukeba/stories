@@ -3,6 +3,7 @@ layout: post
 title:  "Про управление командой разработчиков"
 slug: "team-management"
 date:   2017-01-02 19:52:00 +0300
+category: by-the-way
 tags: [dev, management]
 ---
 

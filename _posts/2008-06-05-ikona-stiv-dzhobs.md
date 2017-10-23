@@ -3,6 +3,7 @@ layout: post
 title:  'IКона. Стив Джобс'
 slug: 'ikona-stiv-dzhobs'
 date:  2008-06-05 22:26:00 +0300
+category: by-the-way
 tags: ["books"]
 ---
 

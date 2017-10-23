@@ -3,6 +3,7 @@ layout: post
 title:  'Игра «Жизнь»'
 slug: 'igra-zhizn'
 date:  2008-12-03 21:36:00 +0300
+category: by-the-way
 tags: ["done","software"]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  'Сайт компании Инфитис'
 slug: 'sajt-kompanii-infitis'
 date:  2006-11-20 18:13:00 +0300
+category: by-the-way
 tags: ["design","done","web"]
 ---
 

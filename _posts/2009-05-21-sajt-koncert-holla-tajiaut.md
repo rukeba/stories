@@ -3,6 +3,7 @@ layout: post
 title:  'Сайт концерт-холла «ТаймАут»'
 slug: 'sajt-koncert-holla-tajiaut'
 date:  2009-05-21 09:50:00 +0300
+category: by-the-way
 tags: ["design","django","done","google","web"]
 ---
 

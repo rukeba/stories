@@ -3,6 +3,7 @@ layout: post
 title:  'Сайт «Люди с неба»'
 slug: 'sajt-lyudi-s-neba'
 date:  2012-03-01 23:26:00 +0300
+category: by-the-way
 tags: ["done","python","web"]
 ---
 

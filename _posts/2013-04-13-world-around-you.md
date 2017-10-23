@@ -3,6 +3,7 @@ layout: post
 title:  'Мир вокруг тебя'
 slug: 'world-around-you'
 date:  2013-04-13 23:10:00 +0300
+category: by-the-way
 tags: ["life"]
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title:  'Бэтман Аполло'
 slug: 'batman-apollo'
 date:  2013-08-04 23:00:00 +0300
+category: by-the-way
 tags: ["books","life"]
 ---
 

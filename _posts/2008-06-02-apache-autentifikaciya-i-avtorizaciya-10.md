@@ -3,6 +3,7 @@ layout: post
 title:  'apache: аутентификация и авторизация #10: авторитарность'
 slug: 'apache-autentifikaciya-i-avtorizaciya-10'
 date:  2008-06-02 21:28:00 +0300
+category: by-the-way
 tags: ["apache"]
 ---
 

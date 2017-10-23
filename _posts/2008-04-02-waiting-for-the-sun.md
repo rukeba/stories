@@ -3,6 +3,7 @@ layout: post
 title:  'Waiting for the Sun'
 slug: 'waiting-for-the-sun'
 date:  2008-04-02 09:44:00 +0300
+category: by-the-way
 tags: ["done","music"]
 ---
 

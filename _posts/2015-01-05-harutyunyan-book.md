@@ -3,6 +3,7 @@ layout: post
 title:  'Книга Арутюнян о лечении заикания'
 slug: 'harutyunyan-book'
 date:  2015-01-05 00:18:00 +0300
+category: by-the-way
 tags: ["books"]
 ---
 

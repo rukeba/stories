@@ -3,6 +3,7 @@ layout: post
 title:  'Сделал определитель аппликатур гитарных аккордов'
 slug: 'sdelal-opredelitel-applikatur-gitarnyh-akkordov'
 date:  2009-01-10 15:07:00 +0300
+category: by-the-way
 tags: ["chords","done","music","web"]
 ---
 

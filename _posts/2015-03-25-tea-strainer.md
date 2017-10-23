@@ -3,6 +3,7 @@ layout: post
 title:  'Ситечко для чая'
 slug: 'tea-strainer'
 date:  2015-03-25 10:55:00 +0300
+category: by-the-way
 tags: ["tea"]
 ---
 

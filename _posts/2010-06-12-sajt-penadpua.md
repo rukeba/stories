@@ -3,6 +3,7 @@ layout: post
 title:  'Сайт pena.dp.ua'
 slug: 'sajt-penadpua'
 date:  2010-06-12 10:42:00 +0300
+category: by-the-way
 tags: ["done","web"]
 ---
 
