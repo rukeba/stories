@@ -6,7 +6,7 @@ layout: default
 
 <div class="col-sm-9">
 
-{% for post in site.posts %}
+{% for post in site.categories.by-the-way %}
   <div class="post-list-item">
     <h3 class="post-title" itemprop="name headline">
       <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
