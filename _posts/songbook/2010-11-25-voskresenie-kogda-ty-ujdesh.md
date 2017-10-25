@@ -4,7 +4,7 @@ title:  'Воскресение / Когда ты уйдешь'
 slug: 'voskresenie-kogda-ty-ujdesh'
 date:  2010-11-25 11:41:00 +0300
 category: songbook
-tags: ["воскресение"]
+tags: ["Воскресение"]
 ---
 
     G             G               G

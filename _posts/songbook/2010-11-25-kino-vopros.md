@@ -4,7 +4,7 @@ title:  'Кино / Вопрос'
 slug: 'kino-vopros'
 date:  2010-11-25 13:11:00 +0300
 category: songbook
-tags: ["кино"]
+tags: ["Кино"]
 ---
 
     C Am Em G
