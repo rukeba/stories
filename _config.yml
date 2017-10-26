@@ -47,3 +47,24 @@ feed:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+collections:
+  blog_tags:
+    output: true
+    permalink: /by-the-way/:name/
+  songbook_tags:
+    output: true
+    permalink: /songbook/:title/
+
+defaults:
+  - scope:
+      path: ""
+      type: "blog_tags"
+    values:
+      layout: list-tag
+  - scope:
+      path: ""
+      type: "songbook_tags"
+    values:
+      layout: songbook-tag
+
