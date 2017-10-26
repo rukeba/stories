@@ -4,7 +4,7 @@ title:  'Как получить версию текущей сборки в .Ne
 slug: 'poluchit-versiyu-tekushej-sborki-v-net'
 date:  2008-10-22 16:20:00 +0300
 category: by-the-way
-tags: [".net","howto"]
+tags: ["dot-net","howto"]
 ---
 
 Очень просто:

@@ -4,7 +4,7 @@ title:  'THE BEER-WARE LICENSE'
 slug: 'beer-ware-license'
 date:  2008-04-08 11:00:00 +0300
 category: by-the-way
-tags: [":)"]
+tags: ["dev", "beer"]
 ---
 
 Рассматривая исходники Apache, нахожу занятные лицензии и комментарии. Например, apr_md5.c:
