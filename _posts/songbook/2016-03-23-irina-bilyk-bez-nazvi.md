@@ -4,7 +4,7 @@ title:  'Iрина Бiлык / Без Назви'
 slug: 'irina-bilyk-bez-nazvi'
 date:  2016-03-23 12:59:00 +0300
 category: songbook
-tags: ["Iрина Бiлык"]
+tags: ["Iрина Бiлик"]
 ---
 
 	[Em Hm C G]
