@@ -11,7 +11,7 @@ layout: default
       <small>
         <span datetime="{{ post.created | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: site.date_format }}</span>,
         {% for tag in page.tags %}
-          <a class="tag" href="/{{ page.categories | first | slugify }}/{{ tag | slugify }}/">{{ tag }}</a>
+          <a class="tag" href="/{{ page.categories | first | slugify }}/{{ tag }}/">{{ tag }}</a>
           {% if forloop.last == false %}&middot;{% endif %}
         {% endfor %}
       </small>
