@@ -33,7 +33,7 @@ kramdown:
 empty_tags: []
 
 feed:
-  path: /by-the-way/feed/
+  path: /feed/index.xml
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
