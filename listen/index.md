@@ -9,30 +9,29 @@ layout: page
 ### Эмбиент, пост-рок, инди, флок
 
 - Jónsi & Alex 
-    - Riceboy Sleeps 
+    - Riceboy Sleeps (2009)
 - Sigur Rós
-    - Valtari 
-    - Með suð í eyrum við spilum endalaust 
-    - Hvarf - Heim 
-    - Takk... 
-    - () 
+    - Valtari (2012)
+    - Með suð í eyrum við spilum endalaust (2008) 
+    - Hvarf - Heim (2007)
+    - Takk... (2005)
+    - () (2002)
 - Bon Iver 
-    - For Emma, Forever Ago 
-    - Bon Iver 
+    - For Emma, Forever Ago (2007) 
+    - Bon Iver (2011)
 - Rhian Sheehan
-    - Standing in Silence 
-    - Stories From Elsewhere 
+    - Standing in Silence (2008) 
+    - Stories From Elsewhere (2013)
 - Lord Huron
-    - Lonesome Dreams 
+    - Lonesome Dreams (2012) 
 - Everything Is Made in China 
-    - Amber 
+    - 4 (2007)
+    - Automatic Movements (2009)
 - Asgeir 
-- Beck 
-    - Morning Phase 
 - Ben Howard 
-    - Every Kingdom 
+    - Every Kingdom (2011)
 - James Vincent McMorrow 
-    - Early In the Morning 
+    - Early In the Morning (2010) 
 - Jack Johnson 
 
 ### Рок
@@ -83,5 +82,6 @@ layout: page
     - O
     - 9
 - Beck
+    - Morning Phase (2014) 
     - Colors (2017)
     
