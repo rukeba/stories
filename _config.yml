@@ -60,7 +60,7 @@ defaults:
       path: ""
       type: "blog_tags"
     values:
-      layout: list-tag
+      layout: blog-tag
   - scope:
       path: ""
       type: "songbook_tags"
