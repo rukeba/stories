@@ -1,3 +1,0 @@
----
-title: "Billy`s Band"
----
