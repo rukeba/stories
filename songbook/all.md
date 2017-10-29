@@ -43,7 +43,7 @@ layout: default
 	{% assign category_tags = category_tags | sort %}
 	<ul class="list-unstyled">
 		{% for tag in category_tags %}
-		<li><a href="/songbook/{{ tag | slugify }}/">{{ tag }}</a> <small>{{ site.tags[tag] | size }}</small></li>
+		<li><a href="/songbook/{{ tag }}/">{{ tag }}</a> <small>{{ site.tags[tag] | size }}</small></li>
 		{% endfor %}
 	</ul>
 
