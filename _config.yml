@@ -53,7 +53,7 @@ collections:
     permalink: /by-the-way/:name/
   songbook_tags:
     output: true
-    permalink: /songbook/:title/
+    #permalink: /songbook/:title/
 
 defaults:
   - scope:
