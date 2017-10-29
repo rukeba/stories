@@ -25,6 +25,8 @@ google_analytics: UA-1638627-8
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+
 markdown: kramdown
 kramdown:
    syntax_highlighter_opts:
@@ -35,17 +37,6 @@ empty_tags: []
 feed:
   path: /feed/index.xml
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
 
 collections:
   blog_tags:
