@@ -73,17 +73,14 @@ ul {
     list-style: none;
     margin-left: 0;
     padding-left: 1.5em;
+    margin-bottom: 1em;
 }
-/*
-ul > li:before {
-    display: inline-block;
-    content: "—";
-    width: 1.5em;
-    margin-left: -1.5em;
-}
-*/
 ul li {
-    margin-bottom: 2px;
+    margin-bottom: 3px;
+}
+
+ul ul, ol ul, ul ol, ol ol {
+    margin-bottom: 1em;
 }
 
 footer {
