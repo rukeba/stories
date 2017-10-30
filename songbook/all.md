@@ -36,8 +36,6 @@ layout: default
 
 <div class="col-sm-3">
 
-</div>
-
   <h3>Исполнители</h3>
 
 	{% assign category_tags = category_tags | sort %}
@@ -46,5 +44,7 @@ layout: default
 		<li><a href="/songbook/{{ tag }}/">{{ tag }}</a> <small>{{ site.tags[tag] | size }}</small></li>
 		{% endfor %}
 	</ul>
+
+</div>
 
 </div>

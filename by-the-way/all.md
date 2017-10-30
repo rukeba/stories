@@ -36,8 +36,6 @@ layout: default
 
 <div class="col-sm-3">
 
-</div>
-
   <h3>Метки</h3>
 
 	{% assign category_tags = category_tags | sort %}
@@ -46,5 +44,7 @@ layout: default
       <li><a href="/by-the-way/{{ tag | slugify }}/">{{ tag }}</a> <small>{{ site.tags[tag] | size }}</small></li>
     {% endfor %}
   </ul>
+
+</div>
 
 </div>
