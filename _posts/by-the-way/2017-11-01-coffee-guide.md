@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Короткое руководство по кофе"
+title:  "Краткое руководство по кофе"
 slug: "coffee-guide"
 date:   2017-11-01 23:01:00 +0200
 category: by-the-way
