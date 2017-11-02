@@ -5,9 +5,14 @@ slug: "coffee-guide"
 date:   2017-11-01 23:01:00 +0200
 category: by-the-way
 tags: [life]
+image: http://rukeba.com/assets/posts/coffee-nathan-dumlao-290152.jpg 
 ---
 
 Сохраняю себе короткий конспект замечательного «[Руководства по кофе](http://mikeozornin.ru/blog/all/coffee-guide-1/)» Михаила Озорнина.
+
+![Coffee on the table, photo by Nathan Dumlao](/assets/posts/coffee-nathan-dumlao-290152.jpg)
+
+
 
 ## Что такое кофе
 
@@ -32,6 +37,8 @@ tags: [life]
 ### Эспрессо
 
 В эспрессо-машине горячая вода под давлением проходит через слой кофе (кофейную таблетку) и происходит экстракция веществ из зерна в воду — получается ароматный напиток.
+
+[ ![Напитки из эспрессе](/assets/posts/coffee-guide-espresso-types.jpg) ](/assets/posts/coffee-guide-espresso-types.jpg)
 
 Рецепт:
 
