@@ -1,13 +1,19 @@
 title: rukeba.com
 description: Блог, песенник и ссылки, которые ведёт Руслан Кеба.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://rukeba.com"
 permalink: /:categories/:slug/
 locale: ru-RU
+lang: ru-RU
 date_format: "%-d %b %Y, %H:%M"
 
 google_analytics: UA-1638627-8
 
+twitter:
+  username: rukeba
+
+logo: http://rukeba.com/assets/img/r.png
+  
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
