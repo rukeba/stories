@@ -23,6 +23,8 @@ kramdown:
    syntax_highlighter_opts:
       disable: true
 
+highlighter: none
+
 empty_tags: []
 
 feed:
