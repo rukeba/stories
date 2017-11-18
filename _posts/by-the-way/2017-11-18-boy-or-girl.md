@@ -10,7 +10,7 @@ image: /assets/posts/children-robert-collins-333411.jpg
 
 Почему в одних семьях рождаются девочки, в других мальчики? У меня есть теория, которая это объясняет.
 
-![Photo by Robert Collins on Unsplash](assets/posts/children-robert-collins-333411.jpg)
+![Photo by Robert Collins on Unsplash](/assets/posts/children-robert-collins-333411.jpg)
 
 
 Эту теорию мне рассказал мой учитель и первый шеф Олег Григорьевич. Теория дилетантская, не имеет ничего общего ни с медициной, ни с генетикой, построена исключительно на личных наблюдениях. Но хорошо подтверждается на его и моём опыте.
