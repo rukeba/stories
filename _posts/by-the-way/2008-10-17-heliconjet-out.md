@@ -1,12 +1,10 @@
 ---
-title: HeliconJet is out!
-date: 2008-10-17 13:03:00 Z
-categories:
-- by-the-way
-tags:
-- done
-- iis
 layout: post
+title:  'HeliconJet is out!'
+slug: 'heliconjet-out'
+date:  2008-10-17 16:03:00 +0300
+category: by-the-way
+tags: ["done","iis"]
 ---
 
 [HeliconJet](http://www.helicontech.com/HeliconJet/) — это модуль IIS, который поможет сэкономить траффик и повысить производительность сервера. Его основные features: HTTP compression, server-side caching и client-side caching. Сжимать и кешировать HeliconJet умеет статический и динамический контент. Приятное отличие — гибкость в настройке с помощью GUI или текстового конфига.

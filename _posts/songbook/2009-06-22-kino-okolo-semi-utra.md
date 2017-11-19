@@ -1,11 +1,10 @@
 ---
-title: Кино / Около Семи Утра
-date: 2009-06-22 17:45:00 Z
-categories:
-- songbook
-tags:
-- Кино
 layout: post
+title:  'Кино / Около Семи Утра'
+slug: 'kino-okolo-semi-utra'
+date:  2009-06-22 20:45:00 +0300
+category: songbook
+tags: ["Кино"]
 ---
 
           Em                           Am                   Em     Am

@@ -1,11 +1,10 @@
 ---
-title: ДДТ / Московская барыня
-date: 2011-12-01 07:47:00 Z
-categories:
-- songbook
-tags:
-- ДДТ
 layout: post
+title:  'ДДТ / Московская барыня'
+slug: 'ddt-moskovskaya-barynya'
+date:  2011-12-01 10:47:00 +0300
+category: songbook
+tags: ["ДДТ"]
 ---
 
      D                    G       A       D

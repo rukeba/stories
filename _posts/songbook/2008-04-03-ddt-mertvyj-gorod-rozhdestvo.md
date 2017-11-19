@@ -1,11 +1,10 @@
 ---
-title: ДДТ / Мертвый город. Рождество
-date: 2008-04-03 05:51:00 Z
-categories:
-- songbook
-tags:
-- ДДТ
 layout: post
+title:  'ДДТ / Мертвый город. Рождество'
+slug: 'ddt-mertvyj-gorod-rozhdestvo'
+date:  2008-04-03 08:51:00 +0300
+category: songbook
+tags: ["ДДТ"]
 ---
 
 	Еm|С D|G|D|G|Н7|Еm|H7

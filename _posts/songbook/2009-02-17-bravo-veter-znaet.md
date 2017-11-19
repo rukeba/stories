@@ -1,11 +1,10 @@
 ---
-title: Браво / Ветер знает
-date: 2009-02-17 19:00:00 Z
-categories:
-- songbook
-tags:
-- Браво
 layout: post
+title:  'Браво / Ветер знает'
+slug: 'bravo-veter-znaet'
+date:  2009-02-17 22:00:00 +0300
+category: songbook
+tags: ["Браво"]
 ---
 
     Dm                    G                C

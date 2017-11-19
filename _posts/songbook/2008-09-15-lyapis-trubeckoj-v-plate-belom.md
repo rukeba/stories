@@ -1,11 +1,10 @@
 ---
-title: Ляпис Трубецкой / В платье белом
-date: 2008-09-15 06:13:00 Z
-categories:
-- songbook
-tags:
-- Ляпис Трубецкой
 layout: post
+title:  'Ляпис Трубецкой / В платье белом'
+slug: 'lyapis-trubeckoj-v-plate-belom'
+date:  2008-09-15 09:13:00 +0300
+category: songbook
+tags: ["Ляпис Трубецкой"]
 ---
 
 	[ Dm | G | C | Am ]

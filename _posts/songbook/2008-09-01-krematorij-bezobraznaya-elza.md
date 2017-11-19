@@ -1,11 +1,10 @@
 ---
-title: Крематорий / Безобразная Эльза
-date: 2008-09-01 06:24:00 Z
-categories:
-- songbook
-tags:
-- Крематорий
 layout: post
+title:  'Крематорий / Безобразная Эльза'
+slug: 'krematorij-bezobraznaya-elza'
+date:  2008-09-01 09:24:00 +0300
+category: songbook
+tags: ["Крематорий"]
 ---
 
 	D     Em          C            G

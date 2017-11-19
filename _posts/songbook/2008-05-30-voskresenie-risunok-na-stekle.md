@@ -1,12 +1,10 @@
 ---
-title: Воскресение / Рисунок на стекле
-date: 2008-05-30 07:03:00 Z
-categories:
-- songbook
-tags:
-- Воскресение
-- Никольский
 layout: post
+title:  'Воскресение / Рисунок на стекле'
+slug: 'voskresenie-risunok-na-stekle'
+date:  2008-05-30 10:03:00 +0300
+category: songbook
+tags: ["Воскресение","Никольский"]
 ---
 
 	Em                                   Hm

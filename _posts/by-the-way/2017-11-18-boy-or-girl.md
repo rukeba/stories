@@ -1,12 +1,11 @@
 ---
-title: Девочка или мальчик?
-date: 2017-11-18 07:18:00 Z
-categories:
-- by-the-way
-tags:
-- life
 layout: post
-image: "/assets/posts/children-robert-collins-333411.jpg"
+title:  "Девочка или мальчик?"
+slug: "boy-or-girl"
+date:   2017-11-18 09:18:00 +0200
+category: by-the-way
+tags: [life]
+image: /assets/posts/children-robert-collins-333411.jpg 
 ---
 
 Почему в одних семьях рождаются девочки, в других мальчики? У меня есть теория, которая это объясняет.

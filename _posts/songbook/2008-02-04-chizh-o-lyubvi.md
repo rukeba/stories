@@ -1,11 +1,10 @@
 ---
-title: Чиж / О любви
-date: 2008-02-03 21:46:00 Z
-categories:
-- songbook
-tags:
-- Чиж
 layout: post
+title:  'Чиж / О любви'
+slug: 'chizh-o-lyubvi'
+date:  2008-02-04 00:46:00 +0300
+category: songbook
+tags: ["Чиж"]
 ---
 
 	D        F#7         Hm   G  A     D

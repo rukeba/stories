@@ -1,12 +1,11 @@
 ---
-title: Краткое руководство по кофе
-date: 2017-11-01 21:01:00 Z
-categories:
-- by-the-way
-tags:
-- life
 layout: post
-image: http://rukeba.com/assets/posts/coffee-nathan-dumlao-290152.jpg
+title:  "Краткое руководство по кофе"
+slug: "coffee-guide"
+date:   2017-11-01 23:01:00 +0200
+category: by-the-way
+tags: [life]
+image: http://rukeba.com/assets/posts/coffee-nathan-dumlao-290152.jpg 
 ---
 
 Сохраняю себе короткий конспект замечательного «[Руководства по кофе](http://mikeozornin.ru/blog/all/coffee-guide-1/)» Михаила Озорнина.

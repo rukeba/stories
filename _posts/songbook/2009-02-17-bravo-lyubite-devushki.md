@@ -1,11 +1,10 @@
 ---
-title: Браво / Любите девушки
-date: 2009-02-17 17:44:00 Z
-categories:
-- songbook
-tags:
-- Браво
 layout: post
+title:  'Браво / Любите девушки'
+slug: 'bravo-lyubite-devushki'
+date:  2009-02-17 20:44:00 +0300
+category: songbook
+tags: ["Браво"]
 ---
 
        A                            C#m

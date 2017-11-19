@@ -1,11 +1,10 @@
 ---
-title: 'Скрябін / Старі фотографії '
-date: 2008-08-06 17:43:00 Z
-categories:
-- songbook
-tags:
-- Скрябін
 layout: post
+title:  'Скрябін / Старі фотографії '
+slug: 'skryabin-stari-fotografiyi'
+date:  2008-08-06 20:43:00 +0300
+category: songbook
+tags: ["Скрябін"]
 ---
 
 	Dm                 B           F

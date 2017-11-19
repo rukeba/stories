@@ -1,11 +1,10 @@
 ---
-title: Аквариум / Трамонтана
-date: 2008-11-29 14:53:00 Z
-categories:
-- songbook
-tags:
-- Аквариум
 layout: post
+title:  'Аквариум / Трамонтана'
+slug: 'akvarium-tramontana'
+date:  2008-11-29 17:53:00 +0300
+category: songbook
+tags: ["Аквариум"]
 ---
 
     F#m         D        F#m         D       F#m   D

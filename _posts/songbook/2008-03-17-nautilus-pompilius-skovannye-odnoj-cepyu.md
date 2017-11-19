@@ -1,11 +1,10 @@
 ---
-title: Наутилус Помпилиус / Скованные одной цепью
-date: 2008-03-16 22:16:00 Z
-categories:
-- songbook
-tags:
-- Наутилус Помпилиус
 layout: post
+title:  'Наутилус Помпилиус / Скованные одной цепью'
+slug: 'nautilus-pompilius-skovannye-odnoj-cepyu'
+date:  2008-03-17 01:16:00 +0300
+category: songbook
+tags: ["Наутилус Помпилиус"]
 ---
 
 	      Em         C          H

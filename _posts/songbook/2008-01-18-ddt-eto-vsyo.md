@@ -1,11 +1,10 @@
 ---
-title: ДДТ / Это Всё
-date: 2008-01-17 22:16:00 Z
-categories:
-- songbook
-tags:
-- ДДТ
 layout: post
+title:  'ДДТ / Это Всё'
+slug: 'ddt-eto-vsyo'
+date:  2008-01-18 01:16:00 +0300
+category: songbook
+tags: ["ДДТ"]
 ---
 
 	       G                       D

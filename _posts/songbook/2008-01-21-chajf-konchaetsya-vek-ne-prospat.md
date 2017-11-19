@@ -1,11 +1,10 @@
 ---
-title: Чайф / Кончается век (Не проспать бы)
-date: 2008-01-20 22:07:00 Z
-categories:
-- songbook
-tags:
-- Чайф
 layout: post
+title:  'Чайф / Кончается век (Не проспать бы)'
+slug: 'chajf-konchaetsya-vek-ne-prospat'
+date:  2008-01-21 01:07:00 +0300
+category: songbook
+tags: ["Чайф"]
 ---
 
 	Fmaj7 : X33210

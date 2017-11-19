@@ -1,11 +1,10 @@
 ---
-title: Сплин / Мое сердце
-date: 2008-01-30 21:48:00 Z
-categories:
-- songbook
-tags:
-- Сплин
 layout: post
+title:  'Сплин / Мое сердце'
+slug: 'splin-moe-serdce'
+date:  2008-01-31 00:48:00 +0300
+category: songbook
+tags: ["Сплин"]
 ---
 
 	        D                   G    D

@@ -1,11 +1,10 @@
 ---
-title: Кино / Группа крови
-date: 2008-04-07 21:26:00 Z
-categories:
-- songbook
-tags:
-- Кино
 layout: post
+title:  'Кино / Группа крови'
+slug: 'kino-gruppa-krovi'
+date:  2008-04-08 00:26:00 +0300
+category: songbook
+tags: ["Кино"]
 ---
 
 	 F#m

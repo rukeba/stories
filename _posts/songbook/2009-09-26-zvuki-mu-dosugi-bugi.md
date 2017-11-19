@@ -1,11 +1,10 @@
 ---
-title: Звуки Му / Досуги-буги
-date: 2009-09-26 09:22:00 Z
-categories:
-- songbook
-tags:
-- Звуки Му
 layout: post
+title:  'Звуки Му / Досуги-буги'
+slug: 'zvuki-mu-dosugi-bugi'
+date:  2009-09-26 12:22:00 +0300
+category: songbook
+tags: ["Звуки Му"]
 ---
 
     Hm

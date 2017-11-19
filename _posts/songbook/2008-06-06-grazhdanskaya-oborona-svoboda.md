@@ -1,11 +1,10 @@
 ---
-title: Гражданская Оборона / Свобода
-date: 2008-06-06 14:12:00 Z
-categories:
-- songbook
-tags:
-- Гражданская Оборона
 layout: post
+title:  'Гражданская Оборона / Свобода'
+slug: 'grazhdanskaya-oborona-svoboda'
+date:  2008-06-06 17:12:00 +0300
+category: songbook
+tags: ["Гражданская Оборона"]
 ---
 
 	 G             F#         Hm    Em

@@ -1,12 +1,10 @@
 ---
-title: RewriteCond и %{SERVER_PORT}
-date: 2008-09-08 16:27:00 Z
-categories:
-- by-the-way
-tags:
-- apache
-- iis
 layout: post
+title:  'RewriteCond и %{SERVER_PORT}'
+slug: 'rewritecond-i-server_port'
+date:  2008-09-08 19:27:00 +0300
+category: by-the-way
+tags: ["apache","iis"]
 ---
 
 Нашёл в apache интересную и неочевидную особенность. Имеем конфиг:

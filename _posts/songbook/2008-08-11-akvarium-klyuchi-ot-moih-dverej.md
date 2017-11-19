@@ -1,11 +1,10 @@
 ---
-title: Аквариум / Ключи от моих дверей
-date: 2008-08-11 18:33:00 Z
-categories:
-- songbook
-tags:
-- Аквариум
 layout: post
+title:  'Аквариум / Ключи от моих дверей'
+slug: 'akvarium-klyuchi-ot-moih-dverej'
+date:  2008-08-11 21:33:00 +0300
+category: songbook
+tags: ["Аквариум"]
 ---
 
 	       G

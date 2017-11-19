@@ -1,11 +1,10 @@
 ---
-title: Чайф / С Войны
-date: 2008-01-29 10:06:00 Z
-categories:
-- songbook
-tags:
-- Чайф
 layout: post
+title:  'Чайф / С Войны'
+slug: 'chajf-s-vojny'
+date:  2008-01-29 13:06:00 +0300
+category: songbook
+tags: ["Чайф"]
 ---
 
 	G                      D          Am                    Em

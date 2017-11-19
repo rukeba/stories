@@ -1,6 +1,6 @@
 ---
+permalink: /songbook/all/
 title: Все песни
-permalink: "/songbook/all/"
 layout: default
 ---
 

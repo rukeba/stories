@@ -1,11 +1,10 @@
 ---
-title: Кино / Вопрос
-date: 2010-11-25 10:11:00 Z
-categories:
-- songbook
-tags:
-- Кино
 layout: post
+title:  'Кино / Вопрос'
+slug: 'kino-vopros'
+date:  2010-11-25 13:11:00 +0300
+category: songbook
+tags: ["Кино"]
 ---
 
     C Am Em G

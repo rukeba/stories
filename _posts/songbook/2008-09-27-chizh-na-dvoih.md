@@ -1,11 +1,10 @@
 ---
-title: Чиж / На двоих
-date: 2008-09-27 15:28:00 Z
-categories:
-- songbook
-tags:
-- Чиж
 layout: post
+title:  'Чиж / На двоих'
+slug: 'chizh-na-dvoih'
+date:  2008-09-27 18:28:00 +0300
+category: songbook
+tags: ["Чиж"]
 ---
 
 	G D Em Em | G D Em Em | G D F C| Em D G G

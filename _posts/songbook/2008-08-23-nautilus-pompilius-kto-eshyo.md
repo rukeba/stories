@@ -1,11 +1,10 @@
 ---
-title: Наутилус Помпилиус / Кто ещё...
-date: 2008-08-23 17:53:00 Z
-categories:
-- songbook
-tags:
-- Наутилус Помпилиус
 layout: post
+title:  'Наутилус Помпилиус / Кто ещё...'
+slug: 'nautilus-pompilius-kto-eshyo'
+date:  2008-08-23 20:53:00 +0300
+category: songbook
+tags: ["Наутилус Помпилиус"]
 ---
 
 	Кто ещё...

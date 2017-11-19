@@ -1,11 +1,10 @@
 ---
-title: Серьга / Ой, пойду, пойду
-date: 2008-08-28 18:26:00 Z
-categories:
-- songbook
-tags:
-- Серьга
 layout: post
+title:  'Серьга / Ой, пойду, пойду'
+slug: 'serga-oj-pojdu-pojdu'
+date:  2008-08-28 21:26:00 +0300
+category: songbook
+tags: ["Серьга"]
 ---
 
 	        Am

@@ -1,13 +1,10 @@
 ---
-title: Сайт развлекательного комплекса "Ночь"
-date: 2006-12-14 16:20:00 Z
-categories:
-- by-the-way
-tags:
-- design
-- done
-- web
 layout: post
+title:  'Сайт развлекательного комплекса "Ночь"'
+slug: 'sajt-razvlekatelnogo-kompleksa-noch'
+date:  2006-12-14 19:20:00 +0300
+category: by-the-way
+tags: ["design","done","web"]
 ---
 
 Сделал сайт развлекательного комплекса  "Ночь".

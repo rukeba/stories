@@ -1,11 +1,10 @@
 ---
-title: Bob Marley / No Woman No Cry
-date: 2008-10-08 19:17:00 Z
-categories:
-- songbook
-tags:
-- Bob Marley
 layout: post
+title:  'Bob Marley / No Woman No Cry'
+slug: 'bob-marley-no-woman-no-cry'
+date:  2008-10-08 22:17:00 +0300
+category: songbook
+tags: ["Bob Marley"]
 ---
 
 	[C  G/H  Am7  F  C  F  C  G]

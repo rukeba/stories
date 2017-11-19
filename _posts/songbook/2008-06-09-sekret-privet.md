@@ -1,11 +1,10 @@
 ---
-title: Секрет / Привет
-date: 2008-06-09 05:57:00 Z
-categories:
-- songbook
-tags:
-- Секрет
 layout: post
+title:  'Секрет / Привет'
+slug: 'sekret-privet'
+date:  2008-06-09 08:57:00 +0300
+category: songbook
+tags: ["Секрет"]
 ---
 
 	[Dm  Gm A]

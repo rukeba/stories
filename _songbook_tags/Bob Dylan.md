@@ -1,5 +1,4 @@
 ---
 title: Bob Dylan
-permalink: "/songbook/Bob Dylan/"
+permalink: /songbook/Bob Dylan/
 ---
-

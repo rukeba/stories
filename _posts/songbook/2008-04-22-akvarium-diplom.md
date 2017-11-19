@@ -1,11 +1,10 @@
 ---
-title: Аквариум / Диплом
-date: 2008-04-21 22:39:00 Z
-categories:
-- songbook
-tags:
-- Аквариум
 layout: post
+title:  'Аквариум / Диплом'
+slug: 'akvarium-diplom'
+date:  2008-04-22 01:39:00 +0300
+category: songbook
+tags: ["Аквариум"]
 ---
 
 	C         Em      F

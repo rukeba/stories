@@ -1,11 +1,10 @@
 ---
-title: 'apache: аутентификация и авторизация. #2'
-date: 2008-04-24 05:47:00 Z
-categories:
-- by-the-way
-tags:
-- apache
 layout: post
+title:  'apache: аутентификация и авторизация. #2'
+slug: 'apache-autentifikaciya-i-avtorizaciya-2'
+date:  2008-04-24 08:47:00 +0300
+category: by-the-way
+tags: ["apache"]
 ---
 
 Процесс аутентификации/авторизации происходит в три этапа.

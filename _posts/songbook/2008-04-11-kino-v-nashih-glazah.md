@@ -1,11 +1,10 @@
 ---
-title: Кино / В наших глазах
-date: 2008-04-11 06:11:00 Z
-categories:
-- songbook
-tags:
-- Кино
 layout: post
+title:  'Кино / В наших глазах'
+slug: 'kino-v-nashih-glazah'
+date:  2008-04-11 09:11:00 +0300
+category: songbook
+tags: ["Кино"]
 ---
 
 	Em

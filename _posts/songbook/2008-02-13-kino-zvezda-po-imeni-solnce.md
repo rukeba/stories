@@ -1,11 +1,10 @@
 ---
-title: Кино / Звезда по имени Солнце
-date: 2008-02-13 18:14:00 Z
-categories:
-- songbook
-tags:
-- Кино
 layout: post
+title:  'Кино / Звезда по имени Солнце'
+slug: 'kino-zvezda-po-imeni-solnce'
+date:  2008-02-13 21:14:00 +0300
+category: songbook
+tags: ["Кино"]
 ---
 
 	        Am                     C

@@ -1,7 +1,7 @@
 ---
 title: Блог
-permalink: "/by-the-way/"
 layout: default
+permalink: /by-the-way/
 ---
 
 {% for post in site.categories.by-the-way limit:10 %}

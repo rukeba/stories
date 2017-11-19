@@ -1,12 +1,10 @@
 ---
-title: Редирект фида на FeedBurner из nginx
-date: 2008-11-11 07:42:00 Z
-categories:
-- by-the-way
-tags:
-- howto
-- nginx
 layout: post
+title:  'Редирект фида на FeedBurner из nginx'
+slug: 'redirekt-fida-na-feedburner-iz-nginx'
+date:  2008-11-11 10:42:00 +0300
+category: by-the-way
+tags: ["howto","nginx"]
 ---
 
 Что бы редиректить фиды (rss, atom) со своего сайта на FeedBurner, достаточно добавить в конфигурацию сайта такое:

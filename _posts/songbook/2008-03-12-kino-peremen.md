@@ -1,11 +1,10 @@
 ---
-title: Кино / Перемен!
-date: 2008-03-12 05:08:00 Z
-categories:
-- songbook
-tags:
-- Кино
 layout: post
+title:  'Кино / Перемен!'
+slug: 'kino-peremen'
+date:  2008-03-12 08:08:00 +0300
+category: songbook
+tags: ["Кино"]
 ---
 
 	  F#m

@@ -1,6 +1,6 @@
 ---
 title: Вы только послушайте!
-permalink: "/listen/"
+permalink: /listen/
 layout: page
 ---
 

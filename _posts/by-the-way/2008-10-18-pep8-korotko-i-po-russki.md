@@ -1,11 +1,10 @@
 ---
-title: PEP8 коротко и по-русски
-date: 2008-10-18 18:34:00 Z
-categories:
-- by-the-way
-tags:
-- python
 layout: post
+title:  'PEP8 коротко и по-русски'
+slug: 'pep8-korotko-i-po-russki'
+date:  2008-10-18 21:34:00 +0300
+category: by-the-way
+tags: ["python"]
 ---
 
 [PEP8](http://www.python.org/dev/peps/pep-0008/) - это стилевые правила для кода на языке Python.

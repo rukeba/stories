@@ -1,11 +1,10 @@
 ---
-title: Кино / Рядом со мной
-date: 2008-05-29 05:35:00 Z
-categories:
-- songbook
-tags:
-- Кино
 layout: post
+title:  'Кино / Рядом со мной'
+slug: 'kino-ryadom-so-mnoj'
+date:  2008-05-29 08:35:00 +0300
+category: songbook
+tags: ["Кино"]
 ---
 
 	 C

@@ -1,11 +1,10 @@
 ---
-title: Billy\`s Band / Коктейль из лунного света и вина
-date: 2009-05-28 06:14:00 Z
-categories:
-- songbook
-tags:
-- Billys Band
 layout: post
+title:  'Billy\`s Band / Коктейль из лунного света и вина'
+slug: 'koktejl-iz-lunnogo-sveta-i-vina'
+date:  2009-05-28 09:14:00 +0300
+category: songbook
+tags: ["Billys Band"]
 ---
 
 	     Am7       G7         F7    E7

@@ -1,13 +1,10 @@
 ---
-title: Сайт компании Инфитис
-date: 2006-11-20 15:13:00 Z
-categories:
-- by-the-way
-tags:
-- design
-- done
-- web
 layout: post
+title:  'Сайт компании Инфитис'
+slug: 'sajt-kompanii-infitis'
+date:  2006-11-20 18:13:00 +0300
+category: by-the-way
+tags: ["design","done","web"]
 ---
 
 Сделал сайт для компании "Инфитис".

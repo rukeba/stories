@@ -1,11 +1,10 @@
 ---
-title: Аквариум / Дубровский
-date: 2008-01-12 10:45:00 Z
-categories:
-- songbook
-tags:
-- Аквариум
 layout: post
+title:  'Аквариум / Дубровский'
+slug: 'dubrovskij'
+date:  2008-01-12 13:45:00 +0300
+category: songbook
+tags: ["Аквариум"]
 ---
 
         D                  Hm              D   A

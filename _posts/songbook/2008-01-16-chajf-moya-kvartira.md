@@ -1,11 +1,10 @@
 ---
-title: Чайф / Моя Квартира
-date: 2008-01-15 21:59:00 Z
-categories:
-- songbook
-tags:
-- Чайф
 layout: post
+title:  'Чайф / Моя Квартира'
+slug: 'chajf-moya-kvartira'
+date:  2008-01-16 00:59:00 +0300
+category: songbook
+tags: ["Чайф"]
 ---
 
 	Em                    G

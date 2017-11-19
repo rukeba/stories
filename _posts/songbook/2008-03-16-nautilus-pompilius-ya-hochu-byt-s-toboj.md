@@ -1,11 +1,10 @@
 ---
-title: Наутилус Помпилиус / Я хочу быть с тобой
-date: 2008-03-16 08:44:00 Z
-categories:
-- songbook
-tags:
-- Наутилус Помпилиус
 layout: post
+title:  'Наутилус Помпилиус / Я хочу быть с тобой'
+slug: 'nautilus-pompilius-ya-hochu-byt-s-toboj'
+date:  2008-03-16 11:44:00 +0300
+category: songbook
+tags: ["Наутилус Помпилиус"]
 ---
 
 	     Am      G        C

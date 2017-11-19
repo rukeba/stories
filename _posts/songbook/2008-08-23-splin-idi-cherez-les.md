@@ -1,11 +1,10 @@
 ---
-title: Сплин / Иди через лес
-date: 2008-08-23 17:06:00 Z
-categories:
-- songbook
-tags:
-- Сплин
 layout: post
+title:  'Сплин / Иди через лес'
+slug: 'splin-idi-cherez-les'
+date:  2008-08-23 20:06:00 +0300
+category: songbook
+tags: ["Сплин"]
 ---
 
 	Em           A

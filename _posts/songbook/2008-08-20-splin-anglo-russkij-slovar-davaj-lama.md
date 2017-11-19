@@ -1,11 +1,10 @@
 ---
-title: Сплин / Англо-русский словарь (Давай, Лама)
-date: 2008-08-20 17:51:00 Z
-categories:
-- songbook
-tags:
-- Сплин
 layout: post
+title:  'Сплин / Англо-русский словарь (Давай, Лама)'
+slug: 'splin-anglo-russkij-slovar-davaj-lama'
+date:  2008-08-20 20:51:00 +0300
+category: songbook
+tags: ["Сплин"]
 ---
 
 	F         C           Dm B      F   C

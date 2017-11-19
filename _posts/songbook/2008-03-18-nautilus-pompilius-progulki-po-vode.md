@@ -1,11 +1,10 @@
 ---
-title: Наутилус Помпилиус / Прогулки по воде
-date: 2008-03-18 05:41:00 Z
-categories:
-- songbook
-tags:
-- Наутилус Помпилиус
 layout: post
+title:  'Наутилус Помпилиус / Прогулки по воде'
+slug: 'nautilus-pompilius-progulki-po-vode'
+date:  2008-03-18 08:41:00 +0300
+category: songbook
+tags: ["Наутилус Помпилиус"]
 ---
 
 	      Em

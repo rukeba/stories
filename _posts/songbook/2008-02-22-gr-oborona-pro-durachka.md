@@ -1,11 +1,10 @@
 ---
-title: Гражданская Оборона / Про дурачка
-date: 2008-02-22 05:41:00 Z
-categories:
-- songbook
-tags:
-- Гражданская Оборона
 layout: post
+title:  'Гражданская Оборона / Про дурачка'
+slug: 'gr-oborona-pro-durachka'
+date:  2008-02-22 08:41:00 +0300
+category: songbook
+tags: ["Гражданская Оборона"]
 ---
 
 	 Hm        A   D    F#

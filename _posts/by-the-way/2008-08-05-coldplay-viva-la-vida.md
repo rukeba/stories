@@ -1,11 +1,10 @@
 ---
-title: 'Coldplay: Viva la Vida'
-date: 2008-08-05 18:14:00 Z
-categories:
-- by-the-way
-tags:
-- music
 layout: post
+title:  'Coldplay: Viva la Vida'
+slug: 'coldplay-viva-la-vida'
+date:  2008-08-05 21:14:00 +0300
+category: by-the-way
+tags: ["music"]
 ---
 
 Поклонником Coldplay являюсь уже давно. Их первые три альбома знаю почти наизусть. И вот наконец послушал их последний альбом -- [Viva la Vida](http://en.wikipedia.org/wiki/Coldplay%27s_fourth_studio_album), который оказался для меня очередным замечательным музыкальным открытием.

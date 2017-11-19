@@ -1,11 +1,10 @@
 ---
-title: Чайф / Хей-хей
-date: 2008-04-15 06:29:00 Z
-categories:
-- songbook
-tags:
-- Чайф
 layout: post
+title:  'Чайф / Хей-хей'
+slug: 'chajf-hej-hej'
+date:  2008-04-15 09:29:00 +0300
+category: songbook
+tags: ["Чайф"]
 ---
 
 	[C G Am F]

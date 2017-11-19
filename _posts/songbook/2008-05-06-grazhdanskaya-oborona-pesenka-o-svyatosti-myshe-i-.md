@@ -1,11 +1,10 @@
 ---
-title: Гражданская Оборона /       Песенка о святости, мыше и камыше
-date: 2008-05-06 06:27:00 Z
-categories:
-- songbook
-tags:
-- Гражданская Оборона
 layout: post
+title:  'Гражданская Оборона /       Песенка о святости, мыше и камыше'
+slug: 'grazhdanskaya-oborona-pesenka-o-svyatosti-myshe-i-'
+date:  2008-05-06 09:27:00 +0300
+category: songbook
+tags: ["Гражданская Оборона"]
 ---
 
 	[Em A C H   Em A C D]

@@ -1,11 +1,10 @@
 ---
-title: Амега / Лететь
-date: 2008-06-10 05:38:00 Z
-categories:
-- songbook
-tags:
-- Амега
 layout: post
+title:  'Амега / Лететь'
+slug: 'amega-letet'
+date:  2008-06-10 08:38:00 +0300
+category: songbook
+tags: ["Амега"]
 ---
 
 	         Cm     Gm

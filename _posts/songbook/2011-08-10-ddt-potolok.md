@@ -1,11 +1,10 @@
 ---
-title: ДДТ / Потолок
-date: 2011-08-10 17:58:00 Z
-categories:
-- songbook
-tags:
-- ДДТ
 layout: post
+title:  'ДДТ / Потолок'
+slug: 'ddt-potolok'
+date:  2011-08-10 20:58:00 +0300
+category: songbook
+tags: ["ДДТ"]
 ---
 
     D A Hm G

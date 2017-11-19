@@ -1,12 +1,10 @@
 ---
-title: Конспект книги «Elegant Objects»
-date: 2016-09-13 15:01:00 Z
-categories:
-- by-the-way
-tags:
-- books
-- dev
 layout: post
+title:  'Конспект книги «Elegant Objects»'
+slug: 'elegant-objects'
+date:  2016-09-13 18:01:00 +0300
+category: by-the-way
+tags: ["books","dev"]
 ---
 
 [Егор Бугаенко](http://www.yegor256.com/) написал полезную [книгу про ООП](http://www.yegor256.com/elegant-objects.html). Я её прочитал и сделал для себя короткий конспект.

@@ -1,11 +1,10 @@
 ---
-title: Наутилус Помпилиус / Тутанхамон
-date: 2008-03-24 12:26:00 Z
-categories:
-- songbook
-tags:
-- Наутилус Помпилиус
 layout: post
+title:  'Наутилус Помпилиус / Тутанхамон'
+slug: 'nautilus-pompilius-tutanhamon'
+date:  2008-03-24 15:26:00 +0300
+category: songbook
+tags: ["Наутилус Помпилиус"]
 ---
 
 	D                  G

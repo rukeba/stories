@@ -1,11 +1,10 @@
 ---
-title: Кино / Восьмиклассница
-date: 2008-01-19 09:47:00 Z
-categories:
-- songbook
-tags:
-- Кино
 layout: post
+title:  'Кино / Восьмиклассница'
+slug: 'kino-vosmiklassnica'
+date:  2008-01-19 12:47:00 +0300
+category: songbook
+tags: ["Кино"]
 ---
 
 	[Am Em]

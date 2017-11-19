@@ -1,13 +1,10 @@
 ---
-title: Подсветка синтаксиса Apache
-date: 2008-12-27 11:27:00 Z
-categories:
-- by-the-way
-tags:
-- apache
-- done
-- web
 layout: post
+title:  'Подсветка синтаксиса Apache'
+slug: 'podsvetka-sintaksisa-apache'
+date:  2008-12-27 14:27:00 +0300
+category: by-the-way
+tags: ["apache","done","web"]
 ---
 
 Появилась у меня необходимость на страницах [блога HeliconTech](http://helicontech.blogspot.com) 

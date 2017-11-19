@@ -1,11 +1,10 @@
 ---
-title: Чайф / Никто не услышит (Ой-йо)
-date: 2008-02-13 00:34:00 Z
-categories:
-- songbook
-tags:
-- Чайф
 layout: post
+title:  'Чайф / Никто не услышит (Ой-йо)'
+slug: 'chajf-nikto-ne-uslyshit-oj-jo'
+date:  2008-02-13 03:34:00 +0300
+category: songbook
+tags: ["Чайф"]
 ---
 
 	[C | G | Am | F G]

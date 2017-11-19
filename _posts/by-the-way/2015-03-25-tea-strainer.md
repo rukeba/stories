@@ -1,11 +1,10 @@
 ---
-title: Ситечко для чая
-date: 2015-03-25 07:55:00 Z
-categories:
-- by-the-way
-tags:
-- tea
 layout: post
+title:  'Ситечко для чая'
+slug: 'tea-strainer'
+date:  2015-03-25 10:55:00 +0300
+category: by-the-way
+tags: ["tea"]
 ---
 
 ![ситечко для чая](https://lh4.googleusercontent.com/-BwFGHlRjuPM/VRJ2IHfJVfI/AAAAAAAA_B8/UXugJEKsxVU/s800/tea-strainer.jpg)

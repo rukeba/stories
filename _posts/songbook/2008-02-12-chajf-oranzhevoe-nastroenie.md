@@ -1,11 +1,10 @@
 ---
-title: Чайф / Оранжевое настроение
-date: 2008-02-11 21:50:00 Z
-categories:
-- songbook
-tags:
-- Чайф
 layout: post
+title:  'Чайф / Оранжевое настроение'
+slug: 'chajf-oranzhevoe-nastroenie'
+date:  2008-02-12 00:50:00 +0300
+category: songbook
+tags: ["Чайф"]
 ---
 
 	[C Am F G]

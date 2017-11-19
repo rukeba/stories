@@ -1,11 +1,10 @@
 ---
-title: Чиж / Вечная Молодость
-date: 2008-04-01 05:58:00 Z
-categories:
-- songbook
-tags:
-- Чиж
 layout: post
+title:  'Чиж / Вечная Молодость'
+slug: 'chizh-vechnaya-molodost'
+date:  2008-04-01 08:58:00 +0300
+category: songbook
+tags: ["Чиж"]
 ---
 
 	     Em           D        G

@@ -1,12 +1,10 @@
 ---
-title: Бэтман Аполло
-date: 2013-08-04 20:00:00 Z
-categories:
-- by-the-way
-tags:
-- books
-- life
 layout: post
+title:  'Бэтман Аполло'
+slug: 'batman-apollo'
+date:  2013-08-04 23:00:00 +0300
+category: by-the-way
+tags: ["books","life"]
 ---
 
 Прочитал последний роман Пелевина «Бэтман Аполло». Роман понравился.

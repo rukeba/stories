@@ -1,12 +1,10 @@
 ---
-title: Как узнать размер директорий в линукс
-date: 2008-11-06 13:27:00 Z
-categories:
-- by-the-way
-tags:
-- howto
-- linux
 layout: post
+title:  'Как узнать размер директорий в линукс'
+slug: 'kak-uznat-razmer-direktorij-v-linuks'
+date:  2008-11-06 16:27:00 +0300
+category: by-the-way
+tags: ["howto","linux"]
 ---
 
 Оказывается, это очень просто. Занавес поднимается и на сцене - команда `du`.

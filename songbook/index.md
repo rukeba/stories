@@ -1,6 +1,6 @@
 ---
+permalink: /songbook/
 title: Песенник
-permalink: "/songbook/"
 layout: default
 ---
 

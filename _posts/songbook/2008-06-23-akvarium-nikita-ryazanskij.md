@@ -1,11 +1,10 @@
 ---
-title: Аквариум / Никита Рязанский
-date: 2008-06-23 06:08:00 Z
-categories:
-- songbook
-tags:
-- Аквариум
 layout: post
+title:  'Аквариум / Никита Рязанский'
+slug: 'akvarium-nikita-ryazanskij'
+date:  2008-06-23 09:08:00 +0300
+category: songbook
+tags: ["Аквариум"]
 ---
 
 	[ C#m | C#m | G#m F#m | F#m ]

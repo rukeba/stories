@@ -1,11 +1,10 @@
 ---
-title: Аквариум / Когда пройдёт боль
-date: 2008-08-15 06:26:00 Z
-categories:
-- songbook
-tags:
-- Аквариум
 layout: post
+title:  'Аквариум / Когда пройдёт боль'
+slug: 'akvarium-kogda-projdyot-bol'
+date:  2008-08-15 09:26:00 +0300
+category: songbook
+tags: ["Аквариум"]
 ---
 
 	C                Am   G             F   C

@@ -1,11 +1,10 @@
 ---
-title: Кино / Мама анархия
-date: 2008-02-18 21:24:00 Z
-categories:
-- songbook
-tags:
-- Кино
 layout: post
+title:  'Кино / Мама анархия'
+slug: 'kino-mama-anarhiya'
+date:  2008-02-19 00:24:00 +0300
+category: songbook
+tags: ["Кино"]
 ---
 
 	 C

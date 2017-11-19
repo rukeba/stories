@@ -1,11 +1,10 @@
 ---
-title: 'apache: аутентификация и авторизация #8: mod_authn_anon'
-date: 2008-05-25 07:51:00 Z
-categories:
-- by-the-way
-tags:
-- apache
 layout: post
+title:  'apache: аутентификация и авторизация #8: mod_authn_anon'
+slug: 'apache-autentifikaciya-i-avtorizaciya-8'
+date:  2008-05-25 10:51:00 +0300
+category: by-the-way
+tags: ["apache"]
 ---
 
 Модуль mod_authn_anon позволяет аутентифицировать анонимных пользователей. В качестве

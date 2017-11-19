@@ -1,11 +1,10 @@
 ---
-title: Аквариум / Боже, храни полярников
-date: 2008-06-12 06:30:00 Z
-categories:
-- songbook
-tags:
-- Аквариум
 layout: post
+title:  'Аквариум / Боже, храни полярников'
+slug: 'akvarium-bozhe-hrani-polyarnikov'
+date:  2008-06-12 09:30:00 +0300
+category: songbook
+tags: ["Аквариум"]
 ---
 
 	  D               D/H       D/G      D/A     D

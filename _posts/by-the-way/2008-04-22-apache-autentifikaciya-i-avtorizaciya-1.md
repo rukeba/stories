@@ -1,11 +1,10 @@
 ---
-title: 'apache: аутентификация и авторизация. #1'
-date: 2008-04-22 15:52:00 Z
-categories:
-- by-the-way
-tags:
-- apache
 layout: post
+title:  'apache: аутентификация и авторизация. #1'
+slug: 'apache-autentifikaciya-i-avtorizaciya-1'
+date:  2008-04-22 18:52:00 +0300
+category: by-the-way
+tags: ["apache"]
 ---
 
 В последнее время я вплотную занялся рассмотрением безопасности в apache. Источники: [Authentication, Authorization and Access Control](http://httpd.apache.org/docs/2.2/howto/auth.html) и [исходники apache](http://archive.apache.org/dist/httpd/).

@@ -1,11 +1,10 @@
 ---
-title: Кино / Когда твоя девушка больна
-date: 2008-09-27 14:58:00 Z
-categories:
-- songbook
-tags:
-- Кино
 layout: post
+title:  'Кино / Когда твоя девушка больна'
+slug: 'kino-kogda-tvoya-devushka-bolna'
+date:  2008-09-27 17:58:00 +0300
+category: songbook
+tags: ["Кино"]
 ---
 
 	G          Em           C                D

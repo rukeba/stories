@@ -1,11 +1,10 @@
 ---
-title: Аквариум / День Радости
-date: 2009-11-12 05:55:00 Z
-categories:
-- songbook
-tags:
-- Аквариум
 layout: post
+title:  'Аквариум / День Радости'
+slug: 'akvarium-den-radosti'
+date:  2009-11-12 08:55:00 +0300
+category: songbook
+tags: ["Аквариум"]
 ---
 
 	F                  C

@@ -1,11 +1,10 @@
 ---
-title: Мумий Тролль / Скорость
-date: 2008-02-07 14:57:00 Z
-categories:
-- songbook
-tags:
-- Мумий Тролль
 layout: post
+title:  'Мумий Тролль / Скорость'
+slug: 'mumij-troll-skorost'
+date:  2008-02-07 17:57:00 +0300
+category: songbook
+tags: ["Мумий Тролль"]
 ---
 
 	 C          Am          Em   Em

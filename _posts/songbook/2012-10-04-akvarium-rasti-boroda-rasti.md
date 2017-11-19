@@ -1,11 +1,10 @@
 ---
-title: Аквариум / Расти, борода, расти
-date: 2012-10-04 15:12:00 Z
-categories:
-- songbook
-tags:
-- Аквариум
 layout: post
+title:  'Аквариум / Расти, борода, расти'
+slug: 'akvarium-rasti-boroda-rasti'
+date:  2012-10-04 18:12:00 +0300
+category: songbook
+tags: ["Аквариум"]
 ---
 
     Gm      Eb             B  F

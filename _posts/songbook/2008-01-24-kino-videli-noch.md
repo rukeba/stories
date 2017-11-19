@@ -1,11 +1,10 @@
 ---
-title: Кино / Видели ночь
-date: 2008-01-23 23:39:00 Z
-categories:
-- songbook
-tags:
-- Кино
 layout: post
+title:  'Кино / Видели ночь'
+slug: 'kino-videli-noch'
+date:  2008-01-24 02:39:00 +0300
+category: songbook
+tags: ["Кино"]
 ---
 
 	[C G Am F]

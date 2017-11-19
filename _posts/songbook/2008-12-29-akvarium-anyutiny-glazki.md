@@ -1,11 +1,10 @@
 ---
-title: Аквариум / Анютины глазки
-date: 2008-12-29 07:38:00 Z
-categories:
-- songbook
-tags:
-- Аквариум
 layout: post
+title:  'Аквариум / Анютины глазки'
+slug: 'akvarium-anyutiny-glazki'
+date:  2008-12-29 10:38:00 +0300
+category: songbook
+tags: ["Аквариум"]
 ---
 
     C           F  C             G  C
