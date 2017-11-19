@@ -1,10 +1,11 @@
 ---
+title: Сплин / Феллини
+date: 2008-02-11 06:11:00 Z
+categories:
+- songbook
+tags:
+- Сплин
 layout: post
-title:  'Сплин / Феллини'
-slug: 'splin-fellini'
-date:  2008-02-11 09:11:00 +0300
-category: songbook
-tags: ["Сплин"]
 ---
 
 	     Dm        C     B           A       Dm  C B A

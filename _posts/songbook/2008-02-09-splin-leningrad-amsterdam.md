@@ -1,10 +1,11 @@
 ---
+title: Сплин / Ленинград-Амстердам
+date: 2008-02-09 13:08:00 Z
+categories:
+- songbook
+tags:
+- Сплин
 layout: post
-title:  'Сплин / Ленинград-Амстердам'
-slug: 'splin-leningrad-amsterdam'
-date:  2008-02-09 16:08:00 +0300
-category: songbook
-tags: ["Сплин"]
 ---
 
 	  G                                     C

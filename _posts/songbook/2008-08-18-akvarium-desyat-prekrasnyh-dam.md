@@ -1,10 +1,11 @@
 ---
+title: Аквариум / Десять прекрасных дам
+date: 2008-08-18 16:30:00 Z
+categories:
+- songbook
+tags:
+- Аквариум
 layout: post
-title:  'Аквариум / Десять прекрасных дам'
-slug: 'akvarium-desyat-prekrasnyh-dam'
-date:  2008-08-18 19:30:00 +0300
-category: songbook
-tags: ["Аквариум"]
 ---
 
 	D              Em      G7        A       D

@@ -1,10 +1,12 @@
 ---
+title: Никольский / Один взгляд назад
+date: 2008-03-20 05:25:00 Z
+categories:
+- songbook
+tags:
+- Воскресение
+- Никольский
 layout: post
-title:  'Никольский / Один взгляд назад'
-slug: 'nikolskij-odin-vzglyad-nazad'
-date:  2008-03-20 08:25:00 +0300
-category: songbook
-tags: ["Воскресение","Никольский"]
 ---
 
 	   Em            G

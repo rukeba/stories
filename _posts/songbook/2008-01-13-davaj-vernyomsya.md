@@ -1,10 +1,11 @@
 ---
+title: Чайф / Давай вернёмся
+date: 2008-01-13 10:36:00 Z
+categories:
+- songbook
+tags:
+- Чайф
 layout: post
-title:  'Чайф / Давай вернёмся'
-slug: 'davaj-vernyomsya'
-date:  2008-01-13 13:36:00 +0300
-category: songbook
-tags: ["Чайф"]
 ---
 
 	Аккорды:

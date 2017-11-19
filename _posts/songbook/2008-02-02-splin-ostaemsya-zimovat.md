@@ -1,10 +1,11 @@
 ---
+title: Сплин / Остаемся зимовать
+date: 2008-02-02 06:12:00 Z
+categories:
+- songbook
+tags:
+- Сплин
 layout: post
-title:  'Сплин / Остаемся зимовать'
-slug: 'splin-ostaemsya-zimovat'
-date:  2008-02-02 09:12:00 +0300
-category: songbook
-tags: ["Сплин"]
 ---
 
 	     F                              C         Dm

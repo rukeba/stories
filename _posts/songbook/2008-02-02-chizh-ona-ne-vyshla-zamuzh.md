@@ -1,10 +1,11 @@
 ---
+title: Чиж / Она не вышла замуж
+date: 2008-02-02 11:18:00 Z
+categories:
+- songbook
+tags:
+- Чиж
 layout: post
-title:  'Чиж / Она не вышла замуж'
-slug: 'chizh-ona-ne-vyshla-zamuzh'
-date:  2008-02-02 14:18:00 +0300
-category: songbook
-tags: ["Чиж"]
 ---
 
 	  Am

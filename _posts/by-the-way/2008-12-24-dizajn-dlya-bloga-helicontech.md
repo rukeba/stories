@@ -1,10 +1,13 @@
 ---
+title: Дизайн для блога HeliconTech
+date: 2008-12-24 08:09:00 Z
+categories:
+- by-the-way
+tags:
+- design
+- done
+- web
 layout: post
-title:  'Дизайн для блога HeliconTech'
-slug: 'dizajn-dlya-bloga-helicontech'
-date:  2008-12-24 11:09:00 +0300
-category: by-the-way
-tags: ["design","done","web"]
 ---
 
 Сделал дизайн для блога HeliconTech — [helicontech.blogspot.com](http://helicontech.blogspot.com/).  

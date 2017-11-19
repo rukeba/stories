@@ -1,10 +1,11 @@
 ---
+title: Аквариум / Сувлехим Такац
+date: 2013-05-01 13:24:00 Z
+categories:
+- songbook
+tags:
+- Аквариум
 layout: post
-title:  'Аквариум / Сувлехим Такац'
-slug: 'akvarium-suvlehim-takac'
-date:  2013-05-01 16:24:00 +0300
-category: songbook
-tags: ["Аквариум"]
 ---
 
     [G G/F# Em Em/D C G D G]

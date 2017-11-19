@@ -1,10 +1,11 @@
 ---
+title: Мир вокруг тебя
+date: 2013-04-13 20:10:00 Z
+categories:
+- by-the-way
+tags:
+- life
 layout: post
-title:  'Мир вокруг тебя'
-slug: 'world-around-you'
-date:  2013-04-13 23:10:00 +0300
-category: by-the-way
-tags: ["life"]
 ---
 
 Мир вокруг тебя такой, каким ты его видишь и делаешь в своей голове.

@@ -1,10 +1,11 @@
 ---
+title: Новый альбом Sigur Ros
+date: 2008-06-11 15:14:00 Z
+categories:
+- by-the-way
+tags:
+- music
 layout: post
-title:  'Новый альбом Sigur Ros'
-slug: 'novyj-albom-sigur-ros'
-date:  2008-06-11 18:14:00 +0300
-category: by-the-way
-tags: ["music"]
 ---
 
 Sigur Ros выложили свой [новый альбом на Last.fm](http://www.last.fm/music/Sigur+R%C3%B3s/me%C3%B0+su%C3%B0+%C3%AD+eyrum+vi%C3%B0+spilum+endalaust). 

@@ -1,10 +1,11 @@
 ---
+title: Чайф / Поплач о нём
+date: 2008-05-18 19:28:00 Z
+categories:
+- songbook
+tags:
+- Чайф
 layout: post
-title:  'Чайф / Поплач о нём'
-slug: 'chajf-poplach-o-nyom'
-date:  2008-05-18 22:28:00 +0300
-category: songbook
-tags: ["Чайф"]
 ---
 
 	   G                  D              G                 D

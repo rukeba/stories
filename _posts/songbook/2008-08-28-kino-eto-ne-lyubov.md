@@ -1,10 +1,11 @@
 ---
+title: Кино / Это не любовь
+date: 2008-08-28 05:51:00 Z
+categories:
+- songbook
+tags:
+- Кино
 layout: post
-title:  'Кино / Это не любовь'
-slug: 'kino-eto-ne-lyubov'
-date:  2008-08-28 08:51:00 +0300
-category: songbook
-tags: ["Кино"]
 ---
 
 	    С                               G

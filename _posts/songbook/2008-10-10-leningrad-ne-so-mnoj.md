@@ -1,10 +1,11 @@
 ---
+title: Ленинград / Не со мной
+date: 2008-10-10 06:39:00 Z
+categories:
+- songbook
+tags:
+- Ленинград
 layout: post
-title:  'Ленинград / Не со мной'
-slug: 'leningrad-ne-so-mnoj'
-date:  2008-10-10 09:39:00 +0300
-category: songbook
-tags: ["Ленинград"]
 ---
 
 	[ Cm | Fm | Bb | Cm ]

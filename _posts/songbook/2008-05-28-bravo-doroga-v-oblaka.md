@@ -1,10 +1,11 @@
 ---
+title: Браво / Дорога в облака
+date: 2008-05-28 04:46:00 Z
+categories:
+- songbook
+tags:
+- Браво
 layout: post
-title:  'Браво / Дорога в облака'
-slug: 'bravo-doroga-v-oblaka'
-date:  2008-05-28 07:46:00 +0300
-category: songbook
-tags: ["Браво"]
 ---
 
 	Em

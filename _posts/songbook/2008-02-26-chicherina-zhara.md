@@ -1,10 +1,11 @@
 ---
+title: Чичерина / Жара
+date: 2008-02-26 05:57:00 Z
+categories:
+- songbook
+tags:
+- Чичерина
 layout: post
-title:  'Чичерина / Жара'
-slug: 'chicherina-zhara'
-date:  2008-02-26 08:57:00 +0300
-category: songbook
-tags: ["Чичерина"]
 ---
 
 	[E G#m C#m A]

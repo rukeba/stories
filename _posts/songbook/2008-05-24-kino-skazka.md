@@ -1,10 +1,11 @@
 ---
+title: Кино / Сказка
+date: 2008-05-24 13:34:00 Z
+categories:
+- songbook
+tags:
+- Кино
 layout: post
-title:  'Кино / Сказка'
-slug: 'kino-skazka'
-date:  2008-05-24 16:34:00 +0300
-category: songbook
-tags: ["Кино"]
 ---
 
 	       Em

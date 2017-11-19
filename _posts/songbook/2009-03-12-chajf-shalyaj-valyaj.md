@@ -1,10 +1,11 @@
 ---
+title: Чайф / Шаляй-Валяй
+date: 2009-03-12 05:25:00 Z
+categories:
+- songbook
+tags:
+- Чайф
 layout: post
-title:  'Чайф / Шаляй-Валяй'
-slug: 'chajf-shalyaj-valyaj'
-date:  2009-03-12 08:25:00 +0300
-category: songbook
-tags: ["Чайф"]
 ---
 
 	[ D | Hm ]

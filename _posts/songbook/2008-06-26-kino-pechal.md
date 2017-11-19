@@ -1,10 +1,11 @@
 ---
+title: Кино / Печаль
+date: 2008-06-26 06:30:00 Z
+categories:
+- songbook
+tags:
+- Кино
 layout: post
-title:  'Кино / Печаль'
-slug: 'kino-pechal'
-date:  2008-06-26 09:30:00 +0300
-category: songbook
-tags: ["Кино"]
 ---
 
 	    Hm                   A

@@ -1,10 +1,11 @@
 ---
+title: Чайф / Родная не плачь
+date: 2008-10-16 06:31:00 Z
+categories:
+- songbook
+tags:
+- Чайф
 layout: post
-title:  'Чайф / Родная не плачь'
-slug: 'chajf-rodnaya-ne-plach'
-date:  2008-10-16 09:31:00 +0300
-category: songbook
-tags: ["Чайф"]
 ---
 
 	C         G/H  Am        F

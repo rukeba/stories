@@ -1,10 +1,11 @@
 ---
+title: Гражданская Оборона / Отряд не заметил потери бойца
+date: 2008-02-15 05:29:00 Z
+categories:
+- songbook
+tags:
+- Гражданская Оборона
 layout: post
-title:  'Гражданская Оборона / Отряд не заметил потери бойца'
-slug: 'grazhdanskaya-oborona-otryad-ne-zametil'
-date:  2008-02-15 08:29:00 +0300
-category: songbook
-tags: ["Гражданская Оборона"]
 ---
 
 	  Hm        D   Em  F#      Hm

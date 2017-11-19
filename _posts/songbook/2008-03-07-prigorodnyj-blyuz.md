@@ -1,10 +1,11 @@
 ---
+title: Майк Науменко / Пригородный блюз
+date: 2008-03-07 07:04:00 Z
+categories:
+- songbook
+tags:
+- Майк Науменко
 layout: post
-title:  'Майк Науменко / Пригородный блюз'
-slug: 'prigorodnyj-blyuz'
-date:  2008-03-07 10:04:00 +0300
-category: songbook
-tags: ["Майк Науменко"]
 ---
 
 	E

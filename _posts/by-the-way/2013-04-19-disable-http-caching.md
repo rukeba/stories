@@ -1,10 +1,12 @@
 ---
+title: Запрет кеширования по HTTP
+date: 2013-04-19 21:30:00 Z
+categories:
+- by-the-way
+tags:
+- dev
+- http
 layout: post
-title:  'Запрет кеширования по HTTP'
-slug: 'disable-http-caching'
-date:  2013-04-20 00:30:00 +0300
-category: by-the-way
-tags: ["dev","http"]
 ---
 
 Забываю я эту магическую последовательность в Cache-Control, которая запрещает браузеру кешировать ответы. Записываю на память:

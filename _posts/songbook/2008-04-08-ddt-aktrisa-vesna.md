@@ -1,10 +1,11 @@
 ---
+title: ДДТ / Актриса Весна
+date: 2008-04-08 21:37:00 Z
+categories:
+- songbook
+tags:
+- ДДТ
 layout: post
-title:  'ДДТ / Актриса Весна'
-slug: 'ddt-aktrisa-vesna'
-date:  2008-04-09 00:37:00 +0300
-category: songbook
-tags: ["ДДТ"]
 ---
 
 	[G C Em D G D C C]

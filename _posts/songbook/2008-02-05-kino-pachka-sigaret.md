@@ -1,10 +1,11 @@
 ---
+title: Кино / Пачка сигарет
+date: 2008-02-05 08:15:00 Z
+categories:
+- songbook
+tags:
+- Кино
 layout: post
-title:  'Кино / Пачка сигарет'
-slug: 'kino-pachka-sigaret'
-date:  2008-02-05 11:15:00 +0300
-category: songbook
-tags: ["Кино"]
 ---
 
 	[Em|Am|C|D]

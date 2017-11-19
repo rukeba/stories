@@ -1,10 +1,11 @@
 ---
+title: ДДТ / Онанист
+date: 2008-04-02 06:12:00 Z
+categories:
+- songbook
+tags:
+- ДДТ
 layout: post
-title:  'ДДТ / Онанист'
-slug: 'ddt-onanist'
-date:  2008-04-02 09:12:00 +0300
-category: songbook
-tags: ["ДДТ"]
 ---
 
 	C#m    A  E        H

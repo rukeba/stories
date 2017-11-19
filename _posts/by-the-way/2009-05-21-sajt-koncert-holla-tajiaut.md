@@ -1,10 +1,15 @@
 ---
+title: Сайт концерт-холла «ТаймАут»
+date: 2009-05-21 06:50:00 Z
+categories:
+- by-the-way
+tags:
+- design
+- django
+- done
+- google
+- web
 layout: post
-title:  'Сайт концерт-холла «ТаймАут»'
-slug: 'sajt-koncert-holla-tajiaut'
-date:  2009-05-21 09:50:00 +0300
-category: by-the-way
-tags: ["design","django","done","google","web"]
 ---
 
 Сделал вторую версию сайта [концерт-холла «ТаймАут»](http://timeout.dp.ua/) — [timeout.dp.ua](http://timeout.dp.ua/).  

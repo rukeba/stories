@@ -1,10 +1,11 @@
 ---
+title: Мумий Тролль / Делай меня точно
+date: 2008-02-06 10:22:00 Z
+categories:
+- songbook
+tags:
+- Мумий Тролль
 layout: post
-title:  'Мумий Тролль / Делай меня точно'
-slug: 'mumij-troll-delaj-menya-tochno'
-date:  2008-02-06 13:22:00 +0300
-category: songbook
-tags: ["Мумий Тролль"]
 ---
 
 	[H Em C G]

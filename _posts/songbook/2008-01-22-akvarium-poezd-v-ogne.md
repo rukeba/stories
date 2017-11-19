@@ -1,10 +1,11 @@
 ---
+title: Аквариум / Поезд в огне
+date: 2008-01-22 07:54:00 Z
+categories:
+- songbook
+tags:
+- Аквариум
 layout: post
-title:  'Аквариум / Поезд в огне'
-slug: 'akvarium-poezd-v-ogne'
-date:  2008-01-22 10:54:00 +0300
-category: songbook
-tags: ["Аквариум"]
 ---
 
 	D                    Em

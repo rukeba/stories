@@ -1,10 +1,11 @@
 ---
+title: Чайф / Конец
+date: 2008-08-01 06:14:00 Z
+categories:
+- songbook
+tags:
+- Чайф
 layout: post
-title:  'Чайф / Конец'
-slug: 'chajf-konec'
-date:  2008-08-01 09:14:00 +0300
-category: songbook
-tags: ["Чайф"]
 ---
 
 	C          G      C

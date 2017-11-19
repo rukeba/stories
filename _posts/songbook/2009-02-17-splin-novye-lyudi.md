@@ -1,10 +1,11 @@
 ---
+title: Сплин / Новые люди
+date: 2009-02-17 19:23:00 Z
+categories:
+- songbook
+tags:
+- Сплин
 layout: post
-title:  'Сплин / Новые люди'
-slug: 'splin-novye-lyudi'
-date:  2009-02-17 22:23:00 +0300
-category: songbook
-tags: ["Сплин"]
 ---
 
      Dm                     C

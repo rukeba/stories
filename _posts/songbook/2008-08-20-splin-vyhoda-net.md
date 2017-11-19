@@ -1,10 +1,11 @@
 ---
+title: Сплин / Выхода нет
+date: 2008-08-20 18:01:00 Z
+categories:
+- songbook
+tags:
+- Сплин
 layout: post
-title:  'Сплин / Выхода нет'
-slug: 'splin-vyhoda-net'
-date:  2008-08-20 21:01:00 +0300
-category: songbook
-tags: ["Сплин"]
 ---
 
 	C                G         D

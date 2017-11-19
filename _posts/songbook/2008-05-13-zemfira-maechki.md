@@ -1,10 +1,11 @@
 ---
+title: Земфира / Маечки
+date: 2008-05-13 05:42:00 Z
+categories:
+- songbook
+tags:
+- Земфира
 layout: post
-title:  'Земфира / Маечки'
-slug: 'zemfira-maechki'
-date:  2008-05-13 08:42:00 +0300
-category: songbook
-tags: ["Земфира"]
 ---
 
 	 F

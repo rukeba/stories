@@ -1,10 +1,11 @@
 ---
+title: Аквариум / Древнерусская тоска
+date: 2008-04-23 06:17:00 Z
+categories:
+- songbook
+tags:
+- Аквариум
 layout: post
-title:  'Аквариум / Древнерусская тоска'
-slug: 'akvarium-drevnerusskaya-toska'
-date:  2008-04-23 09:17:00 +0300
-category: songbook
-tags: ["Аквариум"]
 ---
 
 	   E

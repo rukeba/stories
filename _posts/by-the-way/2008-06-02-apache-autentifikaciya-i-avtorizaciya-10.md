@@ -1,10 +1,11 @@
 ---
+title: 'apache: аутентификация и авторизация #10: авторитарность'
+date: 2008-06-02 18:28:00 Z
+categories:
+- by-the-way
+tags:
+- apache
 layout: post
-title:  'apache: аутентификация и авторизация #10: авторитарность'
-slug: 'apache-autentifikaciya-i-avtorizaciya-10'
-date:  2008-06-02 21:28:00 +0300
-category: by-the-way
-tags: ["apache"]
 ---
 
 Модули процесса аутентификации ([mod_auth_basic](/blog/2008/04/27/apache-autentifikaciya-i-avtorizaciya-3/) , mod_auth_digest) и модули авторизации ([mod_authz_user](/blog/2008/05/13/apache-autentifikaciya-i-avtorizaciya-5/), [mod_authz_groupfile](/blog/2008/05/24/apache-autentifikaciya-i-avtorizaciya-7/)) имеют директивы, отвечающие за авторитарность этих модулей: `AuthBasicAuthoritative On|Off`, `AuthzUserAuthoritative On|Off`, `	AuthzGroupFileAuthoritative On|Off`. Эти директивы позволяют продолжить процесс аутентификации и авторизации следующим модулям. По-умолчанию эти модули авторитарны, т.е. `Auth*Authoritative On`.

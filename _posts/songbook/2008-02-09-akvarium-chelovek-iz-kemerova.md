@@ -1,10 +1,11 @@
 ---
+title: Аквариум / Человек из Кемерова
+date: 2008-02-09 15:27:00 Z
+categories:
+- songbook
+tags:
+- Аквариум
 layout: post
-title:  'Аквариум / Человек из Кемерова'
-slug: 'akvarium-chelovek-iz-kemerova'
-date:  2008-02-09 18:27:00 +0300
-category: songbook
-tags: ["Аквариум"]
 ---
 
 	Hm                 G

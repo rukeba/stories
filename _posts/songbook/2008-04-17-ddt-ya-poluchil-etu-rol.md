@@ -1,10 +1,11 @@
 ---
+title: ДДТ / Я получил эту роль
+date: 2008-04-17 06:09:00 Z
+categories:
+- songbook
+tags:
+- ДДТ
 layout: post
-title:  'ДДТ / Я получил эту роль'
-slug: 'ddt-ya-poluchil-etu-rol'
-date:  2008-04-17 09:09:00 +0300
-category: songbook
-tags: ["ДДТ"]
 ---
 
 	        Am          G  C       F

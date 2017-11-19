@@ -1,10 +1,11 @@
 ---
+title: 'apache: аутентификация и авторизация #5: mod_authz_user'
+date: 2008-05-13 06:02:00 Z
+categories:
+- by-the-way
+tags:
+- apache
 layout: post
-title:  'apache: аутентификация и авторизация #5: mod_authz_user'
-slug: 'apache-autentifikaciya-i-avtorizaciya-5'
-date:  2008-05-13 09:02:00 +0300
-category: by-the-way
-tags: ["apache"]
 ---
 
 Модуль mod_authz_user обеспечивает авторизацию 

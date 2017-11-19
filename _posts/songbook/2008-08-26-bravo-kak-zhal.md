@@ -1,10 +1,11 @@
 ---
+title: Браво / Как жаль
+date: 2008-08-26 17:31:00 Z
+categories:
+- songbook
+tags:
+- Браво
 layout: post
-title:  'Браво / Как жаль'
-slug: 'bravo-kak-zhal'
-date:  2008-08-26 20:31:00 +0300
-category: songbook
-tags: ["Браво"]
 ---
 
 	    G            Em7 Am7       D7             G Em7 Am7 D7

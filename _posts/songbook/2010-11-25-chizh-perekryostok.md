@@ -1,10 +1,11 @@
 ---
+title: Чиж / Перекрёсток
+date: 2010-11-25 10:41:00 Z
+categories:
+- songbook
+tags:
+- Чиж
 layout: post
-title:  'Чиж / Перекрёсток'
-slug: 'chizh-perekryostok'
-date:  2010-11-25 13:41:00 +0300
-category: songbook
-tags: ["Чиж"]
 ---
 
     Dm             Dm     A7               Dm

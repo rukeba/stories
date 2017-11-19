@@ -1,10 +1,11 @@
 ---
+title: Имена почтовых ящиков в gmail
+date: 2008-03-13 06:29:00 Z
+categories:
+- by-the-way
+tags:
+- google
 layout: post
-title:  'Имена почтовых ящиков в gmail'
-slug: 'imena-pochtovyh-yashikov-v-gmail'
-date:  2008-03-13 09:29:00 +0300
-category: by-the-way
-tags: ["google"]
 ---
 
 [Gmail](http://gmail.com) - замечательная почтовая служба. Не перестаю удивляться и радоваться, когда узнаю о новой и приятной возможности.

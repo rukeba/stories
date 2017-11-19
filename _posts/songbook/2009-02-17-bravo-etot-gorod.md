@@ -1,10 +1,11 @@
 ---
+title: Браво / Этот город
+date: 2009-02-17 18:38:00 Z
+categories:
+- songbook
+tags:
+- Браво
 layout: post
-title:  'Браво / Этот город'
-slug: 'bravo-etot-gorod'
-date:  2009-02-17 21:38:00 +0300
-category: songbook
-tags: ["Браво"]
 ---
 
     Am                       C          E7

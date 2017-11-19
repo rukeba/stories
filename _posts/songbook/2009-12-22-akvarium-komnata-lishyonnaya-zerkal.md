@@ -1,10 +1,11 @@
 ---
+title: Аквариум / Комната, лишённая зеркал
+date: 2009-12-22 06:24:00 Z
+categories:
+- songbook
+tags:
+- Аквариум
 layout: post
-title:  'Аквариум / Комната, лишённая зеркал'
-slug: 'akvarium-komnata-lishyonnaya-zerkal'
-date:  2009-12-22 09:24:00 +0300
-category: songbook
-tags: ["Аквариум"]
 ---
 
     G        A          D 

@@ -1,10 +1,11 @@
 ---
+title: Beatles / Yesterday
+date: 2008-10-06 18:45:00 Z
+categories:
+- songbook
+tags:
+- Beatles
 layout: post
-title:  'Beatles / Yesterday'
-slug: 'beatles-yesterday'
-date:  2008-10-06 21:45:00 +0300
-category: songbook
-tags: ["Beatles"]
 ---
 
 	F

@@ -1,10 +1,11 @@
 ---
+title: Воскресение / Случилось что-то
+date: 2008-03-26 08:11:00 Z
+categories:
+- songbook
+tags:
+- Воскресение
 layout: post
-title:  'Воскресение / Случилось что-то'
-slug: 'voskresenie-sluchilos-chto-to'
-date:  2008-03-26 11:11:00 +0300
-category: songbook
-tags: ["Воскресение"]
 ---
 
 		A               A+7     F#m   Dm7 E

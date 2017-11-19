@@ -1,10 +1,11 @@
 ---
+title: Аквариум / Лошадь белая
+date: 2008-12-09 18:00:00 Z
+categories:
+- songbook
+tags:
+- Аквариум
 layout: post
-title:  'Аквариум / Лошадь белая'
-slug: 'akvarium-loshad-belaya'
-date:  2008-12-09 21:00:00 +0300
-category: songbook
-tags: ["Аквариум"]
 ---
 
      Am        C  F     G

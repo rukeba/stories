@@ -1,10 +1,12 @@
 ---
+title: Как открыть проект VS2008 в VS2005
+date: 2008-10-27 06:00:00 Z
+categories:
+- by-the-way
+tags:
+- dot-net
+- howto
 layout: post
-title:  'Как открыть проект VS2008 в VS2005'
-slug: 'kak-otkryt-proekt-vs2008-v-vs2005'
-date:  2008-10-27 09:00:00 +0300
-category: by-the-way
-tags: ["dot-net","howto"]
 ---
 
 Я пользуюсь старой доброй Visual Studio 2005 и .Net 2.0. Но иногда в мои руки попадают проекты сделанные в 2008-й и открывать их 2005-ая отказывается. Немного поэкспериментировав, нашёл простой рецепт:

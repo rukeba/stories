@@ -1,4 +1,5 @@
 ---
 title: Beatles
-permalink: /songbook/Beatles/
+permalink: "/songbook/Beatles/"
 ---
+

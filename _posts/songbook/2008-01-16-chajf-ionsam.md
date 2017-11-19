@@ -1,10 +1,11 @@
 ---
+title: Чайф / Ионсам
+date: 2008-01-16 22:29:00 Z
+categories:
+- songbook
+tags:
+- Чайф
 layout: post
-title:  'Чайф / Ионсам'
-slug: 'chajf-ionsam'
-date:  2008-01-17 01:29:00 +0300
-category: songbook
-tags: ["Чайф"]
 ---
 
 	D Hm G A

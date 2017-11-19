@@ -1,10 +1,11 @@
 ---
+title: Прошла её пора
+date: 2012-02-28 20:25:00 Z
+categories:
+- by-the-way
+tags:
+- life
 layout: post
-title:  'Прошла её пора'
-slug: 'proshla-eyo-pora'
-date:  2012-02-28 23:25:00 +0300
-category: by-the-way
-tags: ["life"]
 ---
 
 Погода за окном и календарь читают стихи:

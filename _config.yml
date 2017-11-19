@@ -1,53 +1,49 @@
+---
 title: rukeba.com
+timezone: UTC
+collections:
+  blog_tags:
+    title: Blog Tags
+    output: true
+    permalink: "/by-the-way/:name/"
+  posts:
+    title: Posts
+    output: true
+  songbook_tags:
+    title: Songbook Tags
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+defaults:
+- scope:
+    path: ''
+    type: blog_tags
+  values:
+    layout: blog-tag
+- scope:
+    path: ''
+    type: songbook_tags
+  values:
+    layout: songbook-tag
 description: Блог, песенник и ссылки, которые ведёт Руслан Кеба.
-#baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://rukeba.com"
-permalink: /:categories/:slug/
+url: http://rukeba.com
+permalink: "/:categories/:slug/"
 locale: ru-RU
 lang: ru-RU
 date_format: "%-d %b %Y, %H:%M"
-
 google_analytics: UA-1638627-8
-
 twitter:
   username: rukeba
-
 logo: http://rukeba.com/assets/img/r.png
-  
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-
+- jekyll-feed
+- jekyll-seo-tag
 markdown: kramdown
 kramdown:
-   syntax_highlighter_opts:
-      disable: true
-
+  syntax_highlighter_opts:
+    disable: true
 highlighter: none
-
 empty_tags: []
-
 feed:
-  path: /feed/index.xml
-
-
-collections:
-  blog_tags:
-    output: true
-    permalink: /by-the-way/:name/
-  songbook_tags:
-    output: true
-    #permalink: /songbook/:title/
-
-defaults:
-  - scope:
-      path: ""
-      type: "blog_tags"
-    values:
-      layout: blog-tag
-  - scope:
-      path: ""
-      type: "songbook_tags"
-    values:
-      layout: songbook-tag
-
+  path: "/feed/index.xml"

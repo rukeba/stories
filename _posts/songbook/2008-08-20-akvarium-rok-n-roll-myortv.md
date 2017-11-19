@@ -1,10 +1,11 @@
 ---
+title: Аквариум / Рок-н-ролл мёртв
+date: 2008-08-20 06:02:00 Z
+categories:
+- songbook
+tags:
+- Аквариум
 layout: post
-title:  'Аквариум / Рок-н-ролл мёртв'
-slug: 'akvarium-rok-n-roll-myortv'
-date:  2008-08-20 09:02:00 +0300
-category: songbook
-tags: ["Аквариум"]
 ---
 
 	       Am      Em     G      Am

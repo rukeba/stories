@@ -1,10 +1,11 @@
 ---
+title: Аквариум / Капитан Воронин
+date: 2008-09-08 06:40:00 Z
+categories:
+- songbook
+tags:
+- Аквариум
 layout: post
-title:  'Аквариум / Капитан Воронин'
-slug: 'akvarium-kapitan-voronin'
-date:  2008-09-08 09:40:00 +0300
-category: songbook
-tags: ["Аквариум"]
 ---
 
 	G                      Am

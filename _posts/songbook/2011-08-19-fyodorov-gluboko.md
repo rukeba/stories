@@ -1,10 +1,11 @@
 ---
+title: Фёдоров / Глубоко
+date: 2011-08-19 07:48:00 Z
+categories:
+- songbook
+tags:
+- Фёдоров
 layout: post
-title:  'Фёдоров / Глубоко'
-slug: 'fyodorov-gluboko'
-date:  2011-08-19 10:48:00 +0300
-category: songbook
-tags: ["Фёдоров"]
 ---
 
       G

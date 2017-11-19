@@ -1,10 +1,11 @@
 ---
+title: Гражданская Оборона / Всё как у людей
+date: 2008-02-13 21:11:00 Z
+categories:
+- songbook
+tags:
+- Гражданская Оборона
 layout: post
-title:  'Гражданская Оборона / Всё как у людей'
-slug: 'grazhdanskaya-oborona-vsyo-kak-u-lyudej'
-date:  2008-02-14 00:11:00 +0300
-category: songbook
-tags: ["Гражданская Оборона"]
 ---
 
 	[Hm G Em F#]

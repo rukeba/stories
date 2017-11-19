@@ -1,10 +1,11 @@
 ---
+title: Чайф / Не со мной
+date: 2008-10-13 06:23:00 Z
+categories:
+- songbook
+tags:
+- Чайф
 layout: post
-title:  'Чайф / Не со мной'
-slug: 'chajf-ne-so-mnoj'
-date:  2008-10-13 09:23:00 +0300
-category: songbook
-tags: ["Чайф"]
 ---
 
 	[G | C]

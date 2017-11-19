@@ -1,10 +1,12 @@
 ---
+title: THE BEER-WARE LICENSE
+date: 2008-04-08 08:00:00 Z
+categories:
+- by-the-way
+tags:
+- dev
+- beer
 layout: post
-title:  'THE BEER-WARE LICENSE'
-slug: 'beer-ware-license'
-date:  2008-04-08 11:00:00 +0300
-category: by-the-way
-tags: ["dev", "beer"]
 ---
 
 Рассматривая исходники Apache, нахожу занятные лицензии и комментарии. Например, apr_md5.c:

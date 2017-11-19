@@ -1,10 +1,11 @@
 ---
+title: Чайф / Не спеши
+date: 2008-03-30 23:04:00 Z
+categories:
+- songbook
+tags:
+- Чайф
 layout: post
-title:  'Чайф / Не спеши'
-slug: 'chajf-ne-speshi'
-date:  2008-03-31 02:04:00 +0300
-category: songbook
-tags: ["Чайф"]
 ---
 
 	Em         G     D       Em

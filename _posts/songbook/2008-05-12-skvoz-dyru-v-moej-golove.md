@@ -1,10 +1,11 @@
 ---
+title: Гражданская Оборона / Сквозь дыру в моей голове
+date: 2008-05-12 05:55:00 Z
+categories:
+- songbook
+tags:
+- Гражданская Оборона
 layout: post
-title:  'Гражданская Оборона / Сквозь дыру в моей голове'
-slug: 'skvoz-dyru-v-moej-golove'
-date:  2008-05-12 08:55:00 +0300
-category: songbook
-tags: ["Гражданская Оборона"]
 ---
 
 	 G        Hm  Am         D

@@ -1,10 +1,11 @@
 ---
+title: 'В какой последовательности апач обрабатывет свои конфигурационные секции. '
+date: 2008-07-02 07:03:00 Z
+categories:
+- by-the-way
+tags:
+- apache
 layout: post
-title:  'В какой последовательности апач обрабатывет свои конфигурационные секции. '
-slug: 'v-kakoj-posledovatelnosti-apach-obrabatyvet-svoi-k'
-date:  2008-07-02 10:03:00 +0300
-category: by-the-way
-tags: ["apache"]
 ---
 
 Начнём без долгих прелюдий. Источник - [Configuration Sections](http://httpd.apache.org/docs/2.2/sections.html)

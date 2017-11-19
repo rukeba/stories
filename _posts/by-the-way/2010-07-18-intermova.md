@@ -1,10 +1,12 @@
 ---
+title: Сайт intermova.dp.ua
+date: 2010-07-18 16:14:00 Z
+categories:
+- by-the-way
+tags:
+- done
+- web
 layout: post
-title:  'Сайт intermova.dp.ua'
-slug: 'intermova'
-date:  2010-07-18 19:14:00 +0300
-category: by-the-way
-tags: ["done","web"]
 ---
 
 Сделал сайт для цикла тренингов по новой уникальной методике овладения иностранными языками.  

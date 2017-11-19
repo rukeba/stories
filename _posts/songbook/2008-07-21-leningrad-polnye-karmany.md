@@ -1,10 +1,11 @@
 ---
+title: Ленинград / Полные карманы
+date: 2008-07-21 06:12:00 Z
+categories:
+- songbook
+tags:
+- Ленинград
 layout: post
-title:  'Ленинград / Полные карманы'
-slug: 'leningrad-polnye-karmany'
-date:  2008-07-21 09:12:00 +0300
-category: songbook
-tags: ["Ленинград"]
 ---
 
 	[Риф]

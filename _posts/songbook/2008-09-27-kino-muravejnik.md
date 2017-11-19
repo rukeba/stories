@@ -1,10 +1,11 @@
 ---
+title: Кино / Муравейник
+date: 2008-09-27 14:46:00 Z
+categories:
+- songbook
+tags:
+- Кино
 layout: post
-title:  'Кино / Муравейник'
-slug: 'kino-muravejnik'
-date:  2008-09-27 17:46:00 +0300
-category: songbook
-tags: ["Кино"]
 ---
 
 	     D            A        Hm          G  A

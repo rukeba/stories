@@ -1,10 +1,11 @@
 ---
+title: ДДТ / В последнюю осень
+date: 2008-05-03 18:20:00 Z
+categories:
+- songbook
+tags:
+- ДДТ
 layout: post
-title:  'ДДТ / В последнюю осень'
-slug: 'ddt-v-poslednyuyu-osen'
-date:  2008-05-03 21:20:00 +0300
-category: songbook
-tags: ["ДДТ"]
 ---
 
 	    H7    Em           C           G

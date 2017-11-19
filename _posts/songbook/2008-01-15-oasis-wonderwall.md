@@ -1,10 +1,11 @@
 ---
+title: Oasis / Wonderwall
+date: 2008-01-15 07:26:00 Z
+categories:
+- songbook
+tags:
+- Oasis
 layout: post
-title:  'Oasis / Wonderwall'
-slug: 'oasis-wonderwall'
-date:  2008-01-15 10:26:00 +0300
-category: songbook
-tags: ["Oasis"]
 ---
 
 	Chords :

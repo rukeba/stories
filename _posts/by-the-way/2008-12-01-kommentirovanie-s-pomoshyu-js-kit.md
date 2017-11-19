@@ -1,10 +1,11 @@
 ---
+title: Комментирование с помощью JS-Kit
+date: 2008-12-01 18:34:00 Z
+categories:
+- by-the-way
+tags:
+- web
 layout: post
-title:  'Комментирование с помощью JS-Kit'
-slug: 'kommentirovanie-s-pomoshyu-js-kit'
-date:  2008-12-01 21:34:00 +0300
-category: by-the-way
-tags: ["web"]
 ---
 
 Месяц назад я обновил свой [блогодвижок](http://code.google.com/p/a1blog/) до Django 1.0. Прежние FreeComments работать перестали, а сделать комментирование по-новому руки всё не доходили. А вчера я вспомнил о замечательном проекте [JS-Kit Comments](http://js-kit.com/comments/). Идея до гениальности проста и удобна -- вставляете в html код

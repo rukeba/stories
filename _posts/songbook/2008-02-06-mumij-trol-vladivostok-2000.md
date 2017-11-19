@@ -1,10 +1,11 @@
 ---
+title: Мумий Тролль / Владивосток 2000
+date: 2008-02-06 21:29:00 Z
+categories:
+- songbook
+tags:
+- Мумий Тролль
 layout: post
-title:  'Мумий Тролль / Владивосток 2000'
-slug: 'mumij-trol-vladivostok-2000'
-date:  2008-02-07 00:29:00 +0300
-category: songbook
-tags: ["Мумий Тролль"]
 ---
 
 	      Am

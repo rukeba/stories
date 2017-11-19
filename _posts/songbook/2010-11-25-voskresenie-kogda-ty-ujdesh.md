@@ -1,10 +1,11 @@
 ---
+title: Воскресение / Когда ты уйдешь
+date: 2010-11-25 08:41:00 Z
+categories:
+- songbook
+tags:
+- Воскресение
 layout: post
-title:  'Воскресение / Когда ты уйдешь'
-slug: 'voskresenie-kogda-ty-ujdesh'
-date:  2010-11-25 11:41:00 +0300
-category: songbook
-tags: ["Воскресение"]
 ---
 
     G             G               G

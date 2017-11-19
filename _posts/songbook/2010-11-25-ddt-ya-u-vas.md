@@ -1,10 +1,11 @@
 ---
+title: ДДТ / Я у вас
+date: 2010-11-25 08:58:00 Z
+categories:
+- songbook
+tags:
+- ДДТ
 layout: post
-title:  'ДДТ / Я у вас'
-slug: 'ddt-ya-u-vas'
-date:  2010-11-25 11:58:00 +0300
-category: songbook
-tags: ["ДДТ"]
 ---
 
     A D A D

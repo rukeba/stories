@@ -1,10 +1,11 @@
 ---
+title: 'apache: аутентификация и авторизация #7: mod_authz_groupfile'
+date: 2008-05-24 15:04:00 Z
+categories:
+- by-the-way
+tags:
+- apache
 layout: post
-title:  'apache: аутентификация и авторизация #7: mod_authz_groupfile'
-slug: 'apache-autentifikaciya-i-avtorizaciya-7'
-date:  2008-05-24 18:04:00 +0300
-category: by-the-way
-tags: ["apache"]
 ---
 
 Модуль mod_authz_groupfile обеспечивает авторизацию уже аутентифицорованного пользователя

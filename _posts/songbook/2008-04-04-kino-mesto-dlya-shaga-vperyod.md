@@ -1,10 +1,11 @@
 ---
+title: Кино / Место для шага вперёд
+date: 2008-04-04 06:44:00 Z
+categories:
+- songbook
+tags:
+- Кино
 layout: post
-title:  'Кино / Место для шага вперёд'
-slug: 'kino-mesto-dlya-shaga-vperyod'
-date:  2008-04-04 09:44:00 +0300
-category: songbook
-tags: ["Кино"]
 ---
 
 	     Fm#

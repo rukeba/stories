@@ -1,6 +1,6 @@
 ---
-permalink: /by-the-way/all/
 title: Все записи - Блог
+permalink: "/by-the-way/all/"
 layout: default
 ---
 

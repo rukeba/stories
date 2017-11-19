@@ -1,10 +1,11 @@
 ---
+title: Маша и Медведи / Рейкьявик
+date: 2008-03-11 05:28:00 Z
+categories:
+- songbook
+tags:
+- Маша и Медведи
 layout: post
-title:  'Маша и Медведи / Рейкьявик'
-slug: 'masha-i-medvedi-rejkyavik'
-date:  2008-03-11 08:28:00 +0300
-category: songbook
-tags: ["Маша и Медведи"]
 ---
 
 	G           Em     C              D     

@@ -1,10 +1,11 @@
 ---
+title: Скрябін / Я не тримаю зла
+date: 2014-04-17 13:54:00 Z
+categories:
+- songbook
+tags:
+- Скрябін
 layout: post
-title:  'Скрябін / Я не тримаю зла'
-slug: 'skryabin-ya-ne-trimayu-zla'
-date:  2014-04-17 16:54:00 +0300
-category: songbook
-tags: ["Скрябін"]
 ---
 
 	[Fm Db Bm C]

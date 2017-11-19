@@ -1,10 +1,12 @@
 ---
+title: В поисках потока
+date: 2013-12-07 19:42:00 Z
+categories:
+- by-the-way
+tags:
+- books
+- life
 layout: post
-title:  'В поисках потока'
-slug: 'go-with-the-flow'
-date:  2013-12-07 22:42:00 +0300
-category: by-the-way
-tags: ["books","life"]
 ---
 
 Прочитал книгу Михай Чиксентмихайи «В поисках потока». Оставлю для себя короткий конспект и цитаты.

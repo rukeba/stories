@@ -1,10 +1,11 @@
 ---
+title: Браво / Вася
+date: 2009-03-20 05:51:00 Z
+categories:
+- songbook
+tags:
+- Браво
 layout: post
-title:  'Браво / Вася'
-slug: 'bravo-vasya'
-date:  2009-03-20 08:51:00 +0300
-category: songbook
-tags: ["Браво"]
 ---
 
 	         Am    C      Hm7 E7

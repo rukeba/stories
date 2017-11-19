@@ -1,10 +1,11 @@
 ---
+title: Скрябiн / Кольорова
+date: 2015-02-02 19:38:00 Z
+categories:
+- songbook
+tags:
+- Скрябін
 layout: post
-title:  'Скрябiн / Кольорова'
-slug: 'skryabin-kolorova'
-date:  2015-02-02 22:38:00 +0300
-category: songbook
-tags: ["Скрябін"]
 ---
 
 Сьогоднi 2 лютого 2015 року загинув Андрiй Кузьменко (Кузьма), лiдер гурту «Скрябiн».

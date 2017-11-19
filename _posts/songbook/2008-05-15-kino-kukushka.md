@@ -1,10 +1,11 @@
 ---
+title: Кино / Кукушка
+date: 2008-05-15 05:37:00 Z
+categories:
+- songbook
+tags:
+- Кино
 layout: post
-title:  'Кино / Кукушка'
-slug: 'kino-kukushka'
-date:  2008-05-15 08:37:00 +0300
-category: songbook
-tags: ["Кино"]
 ---
 
 	[Am C G G]

@@ -1,10 +1,11 @@
 ---
+title: 'apache: аутентификация и авторизация #3: mod_auth_basic'
+date: 2008-04-27 11:32:00 Z
+categories:
+- by-the-way
+tags:
+- apache
 layout: post
-title:  'apache: аутентификация и авторизация #3: mod_auth_basic'
-slug: 'apache-autentifikaciya-i-avtorizaciya-3'
-date:  2008-04-27 14:32:00 +0300
-category: by-the-way
-tags: ["apache"]
 ---
 
 Рассмотрим как работает mod_auth_basic. Содержимое .htaccess в директории `/var/www/private/`,

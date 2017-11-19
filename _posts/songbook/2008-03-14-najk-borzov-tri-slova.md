@@ -1,10 +1,11 @@
 ---
+title: Найк Борзов / Три слова
+date: 2008-03-14 06:46:00 Z
+categories:
+- songbook
+tags:
+- Найк Борзов
 layout: post
-title:  'Найк Борзов / Три слова'
-slug: 'najk-borzov-tri-slova'
-date:  2008-03-14 09:46:00 +0300
-category: songbook
-tags: ["Найк Борзов"]
 ---
 
 	E

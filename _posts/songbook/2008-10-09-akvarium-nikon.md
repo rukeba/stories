@@ -1,10 +1,11 @@
 ---
+title: Аквариум / Никон
+date: 2008-10-09 06:04:00 Z
+categories:
+- songbook
+tags:
+- Аквариум
 layout: post
-title:  'Аквариум / Никон'
-slug: 'akvarium-nikon'
-date:  2008-10-09 09:04:00 +0300
-category: songbook
-tags: ["Аквариум"]
 ---
 
 	 D

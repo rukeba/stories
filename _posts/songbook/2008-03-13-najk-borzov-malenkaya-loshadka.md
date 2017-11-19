@@ -1,10 +1,11 @@
 ---
+title: Найк Борзов / Маленькая лошадка
+date: 2008-03-13 05:46:00 Z
+categories:
+- songbook
+tags:
+- Найк Борзов
 layout: post
-title:  'Найк Борзов / Маленькая лошадка'
-slug: 'najk-borzov-malenkaya-loshadka'
-date:  2008-03-13 08:46:00 +0300
-category: songbook
-tags: ["Найк Борзов"]
 ---
 
 	[Припев]

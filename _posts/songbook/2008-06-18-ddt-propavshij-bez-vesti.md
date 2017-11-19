@@ -1,10 +1,11 @@
 ---
+title: ДДТ / Пропавший без вести
+date: 2008-06-18 06:05:00 Z
+categories:
+- songbook
+tags:
+- ДДТ
 layout: post
-title:  'ДДТ / Пропавший без вести'
-slug: 'ddt-propavshij-bez-vesti'
-date:  2008-06-18 09:05:00 +0300
-category: songbook
-tags: ["ДДТ"]
 ---
 
 	            A                   F#m

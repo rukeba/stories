@@ -1,10 +1,13 @@
 ---
+title: Редизайн сайта www.helicontech.com
+date: 2008-04-08 05:48:00 Z
+categories:
+- by-the-way
+tags:
+- design
+- done
+- web
 layout: post
-title:  'Редизайн сайта www.helicontech.com'
-slug: 'redizajn-sajta-wwwhelicontechcom'
-date:  2008-04-08 08:48:00 +0300
-category: by-the-way
-tags: ["design","done","web"]
 ---
 
 Закончил редизайн сайта [www.helicontech.com](http://www.helicontech.com). Уже онлайн.

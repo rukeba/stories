@@ -1,10 +1,12 @@
 ---
+title: Переехал на nginx
+date: 2008-11-06 08:14:00 Z
+categories:
+- by-the-way
+tags:
+- nginx
+- web
 layout: post
-title:  'Переехал на nginx'
-slug: 'pereehal-na-nginx'
-date:  2008-11-06 11:14:00 +0300
-category: by-the-way
-tags: ["nginx","web"]
 ---
 
 Перевёл все свои сайты на веб-сервер [nginx](http://sysoev.ru/nginx/). Памяти он кушает ощутимо меньше апача, по настройкам не уступает, отклик стал быстрее по ощущениям и по простым замерам. Джанго-сайты стали работать через fastcgi, что тоже приятно.

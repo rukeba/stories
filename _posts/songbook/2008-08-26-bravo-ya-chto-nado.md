@@ -1,10 +1,11 @@
 ---
+title: Браво / Я - то, что надо
+date: 2008-08-26 17:33:00 Z
+categories:
+- songbook
+tags:
+- Браво
 layout: post
-title:  'Браво / Я - то, что надо'
-slug: 'bravo-ya-chto-nado'
-date:  2008-08-26 20:33:00 +0300
-category: songbook
-tags: ["Браво"]
 ---
 
 	Am C Dm

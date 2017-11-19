@@ -1,10 +1,11 @@
 ---
+title: Наутилус Помпилиус / Дыхание
+date: 2008-03-27 22:36:00 Z
+categories:
+- songbook
+tags:
+- Наутилус Помпилиус
 layout: post
-title:  'Наутилус Помпилиус / Дыхание'
-slug: 'nautilus-pompilius-dyhanie'
-date:  2008-03-28 01:36:00 +0300
-category: songbook
-tags: ["Наутилус Помпилиус"]
 ---
 
 	D             A               Hm

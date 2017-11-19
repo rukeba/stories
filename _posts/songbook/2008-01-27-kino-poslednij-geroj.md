@@ -1,10 +1,11 @@
 ---
+title: Кино / Последний герой
+date: 2008-01-27 08:21:00 Z
+categories:
+- songbook
+tags:
+- Кино
 layout: post
-title:  'Кино / Последний герой'
-slug: 'kino-poslednij-geroj'
-date:  2008-01-27 11:21:00 +0300
-category: songbook
-tags: ["Кино"]
 ---
 
 	[Em G F# Em | D]

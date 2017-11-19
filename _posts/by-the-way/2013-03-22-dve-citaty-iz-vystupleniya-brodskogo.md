@@ -1,10 +1,11 @@
 ---
+title: Две цитаты из выступления Бродского
+date: 2013-03-22 14:33:00 Z
+categories:
+- by-the-way
+tags:
+- life
 layout: post
-title:  'Две цитаты из выступления Бродского'
-slug: 'dve-citaty-iz-vystupleniya-brodskogo'
-date:  2013-03-22 17:33:00 +0300
-category: by-the-way
-tags: ["life"]
 ---
 
 Две цитаты из выступления Иосифа Бродского на стадионе перед выпускниками университета, подслушанные в Аэростате:

@@ -1,10 +1,11 @@
 ---
+title: Серьга / Дорога в Ночь
+date: 2008-06-05 07:13:00 Z
+categories:
+- songbook
+tags:
+- Серьга
 layout: post
-title:  'Серьга / Дорога в Ночь'
-slug: 'serga-doroga-v-noch'
-date:  2008-06-05 10:13:00 +0300
-category: songbook
-tags: ["Серьга"]
 ---
 
 	   F#m

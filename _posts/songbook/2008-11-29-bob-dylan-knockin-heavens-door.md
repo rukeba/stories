@@ -1,10 +1,11 @@
 ---
+title: Bob Dylan / Knockin' On Heaven's Door
+date: 2008-11-29 15:44:00 Z
+categories:
+- songbook
+tags:
+- Bob Dylan
 layout: post
-title:  "Bob Dylan / Knockin' On Heaven's Door"
-slug: 'bob-dylan-knockin-heavens-door'
-date:  2008-11-29 18:44:00 +0300
-category: songbook
-tags: ["Bob Dylan"]
 ---
 
     [G D Am7 Am7 | G D C C]
