@@ -117,6 +117,10 @@ pre, pre>code {
     max-width: 800px;
 }
 
+.post-list-item {
+    margin-bottom: 3em;
+}
+
 .embed-responsive {
     margin: 1em 0;
 }
