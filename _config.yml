@@ -17,6 +17,7 @@ logo: http://rukeba.com/assets/img/r.png
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-admin
 
 markdown: kramdown
 kramdown:
