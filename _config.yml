@@ -1,5 +1,5 @@
 title: rukeba.com
-description: Блог, песенник и ссылки, которые ведёт Руслан Кеба.
+description: Блог, песенник и ссылки, которые ведёт rukeba.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://rukeba.com"
 permalink: /:categories/:slug/
