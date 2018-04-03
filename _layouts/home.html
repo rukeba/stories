@@ -16,7 +16,7 @@ layout: default
 		<li><a href="/by-the-way/all/" class="text-muted">Все записи</a></li>
 	</ul>
 
-	<h2 style="margin-top: 1em;">
+	<h2>
 		<a href="/songbook/">Песенник</a>
 		<a href="/songbook/feed/" class="icon"><img src="/assets/img/rss.png" alt="RSS"/></a>
 		<small>тексты и аккорды для&nbsp;гитары</small>
@@ -25,44 +25,38 @@ layout: default
 		{% for post in site.categories.songbook limit:3 %}
 			<li><a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></li>
 		{% endfor %}
+		<li>Исполнители: <a href="/songbook/Аквариум/">Аквариум</a>, <a href="/songbook/Кино/">Кино</a>, <a href="/songbook/ДДТ/">ДДТ</a>, <a href="/songbook/Чайф/">Чайф</a>.</li>
 		<li><a href="/songbook/all/" class="text-muted">Все песни</a></li>
 	</ul>
 
-	<h2 style="margin-top: 1em;">Проекты</h2>
-
-	<h4>
-		<img src="/assets/img/pythonhub.png" width="16" height="16"/>
-		PythonHub
-		<small>Новости и&nbsp;ссылки для&nbsp;питонистов</small>
-	</h4>
+	<h2>Разное</h2>
 	<ul>
-		<li><a href="http://twitter.com/PythonHub">twitter.com/PythonHub</a></li>
-		<li><a href="https://telegram.me/PythonHub">telegram.me/PythonHub</a></li>
+		<li>
+			<img src="/assets/img/pythonhub.png" width="16" height="16"/> Новости и&nbsp;ссылки для&nbsp;питонистов: 
+			<a href="http://twitter.com/PythonHub">twitter.com/PythonHub</a>,
+			<a href="https://telegram.me/PythonHub">telegram.me/PythonHub</a>.
+		</li>
+		<li><a href="http://guitar-chords-chart.net/">Определитель аппликатур гитарных&nbsp;аккордов</a></li>
+		<li>
+			<a href="https://twitter.com/rukeba">Твиттер</a>
+			&middot;
+			<a href="https://telegram.me/by_the_way">Подумалось</a>
+			&middot;
+			<a href="https://500px.com/rukeba">Сфотографировал</a>
+			&middot;
+			<a href="http://eternal-grandfather.tumblr.com/">Я где-то это прочитал</a>
+		</li>
 	</ul>
 
-	<h4>
-		<a href="http://guitar-chords-chart.net/">Определитель аппликатур гитарных&nbsp;аккордов</a>
-	</h4>
 
 	<h2>Неопубликованное</h2>
-
 	<ul>
 		<li><a href="{% link unpublished/20th-october.md %}">20 октября</a></li>
 		<li><a href="{% link unpublished/door.md %}">дверь</a></li>
 		<li><a href="{% link unpublished/sea.md %}">море</a></li>
-		<li><a href="{% link unpublished/swifts.md %}">стижи</a></li>
+		<li><a href="{% link unpublished/swifts.md %}">стрижи</a></li>
 		<li><a href="{% link unpublished/untitled.md %}">без названия</a></li>
 		<li><a href="{% link unpublished/who-am-i.md %}">кто я</a></li>
 	</ul>
-
-	<p style="margin-top: 24px">
-		<a href="https://twitter.com/rukeba">Твиттер</a>
-		&middot;
-		<a href="https://telegram.me/by_the_way">Подумалось</a>
-		&middot;
-		<a href="https://500px.com/rukeba">Сфотографировал</a>
-		&middot;
-		<a href="http://eternal-grandfather.tumblr.com/">Я где-то это прочитал</a>
-	</p>
 
 </div>

@@ -113,6 +113,10 @@ pre, pre>code {
     line-height: 18px;
 }
 
+#home h2 {
+    margin-top: 1em;
+}
+
 .by-the-way .post {
     max-width: 800px;
 }
