@@ -1,6 +1,7 @@
 ---
 title: Блог
 layout: default
+redirect_from: /blog/
 permalink: /by-the-way/
 ---
 

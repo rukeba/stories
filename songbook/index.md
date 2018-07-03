@@ -1,5 +1,6 @@
 ---
 permalink: /songbook/
+redirect_from: /ra/
 title: Песенник
 layout: default
 ---
