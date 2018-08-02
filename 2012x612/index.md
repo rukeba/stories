@@ -11,7 +11,8 @@ layout: default
   }
 </style>
 <div id="ig" class="clearfix">
-  {% for img in site.collections.moments_2012 %}
+  {% for img in site.moments_2012 %}
     <img src="{{ img.path }}">
+    <img src="{{ img.url }}">
   {% endfor %}
 </div>

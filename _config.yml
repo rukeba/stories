@@ -42,6 +42,8 @@ collections:
   songbook_tags:
     output: true
     #permalink: /songbook/:title/
+  moments_2012:
+    output: true
 
 defaults:
   - scope:
