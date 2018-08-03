@@ -18,7 +18,6 @@ logo: http://rukeba.com/assets/img/r.png
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-admin
   - jekyll-sitemap
   - jekyll-redirect-from
 
@@ -30,6 +29,7 @@ kramdown:
 highlighter: none
 
 empty_tags: []
+excerpt_separator: <!--more-->
 
 feed:
   path: /feed/index.xml
@@ -41,8 +41,8 @@ collections:
     permalink: /by-the-way/:name/
   songbook_tags:
     output: true
-    #permalink: /songbook/:title/
-  moments_2012:
+    permalink: /songbook/:name/
+  2012_moments:
     output: true
 
 defaults:

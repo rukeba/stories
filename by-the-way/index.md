@@ -21,7 +21,7 @@ permalink: /by-the-way/
       </small>
     </p>
     <div class="body" itemprop="articleBody">
-      {{ post.content }}
+      {{ post.excerpt }}
     </div>
   </div>
 </div>
