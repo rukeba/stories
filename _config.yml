@@ -10,10 +10,9 @@ future: false
 
 google_analytics: UA-1638627-8
 
-twitter:
-  username: rukeba
+cdn_url: https://rkb.ams3.digitaloceanspaces.com
 
-logo: http://rukeba.com/assets/img/r.png
+logo: https://rukeba.com/assets/img/r.png
   
 plugins:
   - jekyll-feed
