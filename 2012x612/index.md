@@ -11,8 +11,8 @@ layout: default
   }
 </style>
 <div id="ig" class="clearfix">
-  {% for img in site.moments_2012 %}
-    <img src="{{ img.path }}">
-    <img src="{{ img.url }}">
+{% assign moments = site.collections | where:"label", "moments_2012"  | first %}
+  {% for img in moments.files %}
+    <img src="/{{ img.path }}">
   {% endfor %}
 </div>
