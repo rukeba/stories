@@ -50,6 +50,7 @@ header .nav {
 header .nav span {
     padding: 6px 10px;
     border-radius: 3px;
+    transition: background-color .5s ease-out;
 }
 
 header .nav span.active {
@@ -100,6 +101,24 @@ footer {
     max-width: 100%;
     margin: 1em 0;
 }
+
+.gallery img {
+    display: inline-block;
+    margin: 0 16px 16px 0;
+}
+.gallery img[data-src] {
+    width: 294px;
+    height: 294px;
+    cursor: pointer;
+}
+
+@media (max-width: 600px) {
+    .gallery img[data-src] {
+        width: 100%;
+        height: auto;
+    }
+}
+
 
 h1.post-title,
 h2.post-title,
