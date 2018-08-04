@@ -11,6 +11,8 @@
   <link rel="stylesheet" href="{{ "/assets/bootstrap/css/bootstrap.min.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/assets/css/rukeba.css" | relative_url }}">
 
+  {% include custom-css.html %}
+
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed/" | relative_url }}">
   
