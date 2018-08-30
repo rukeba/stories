@@ -24,8 +24,8 @@ custom-css-list:
 
 {% for img in images %}
 {% if forloop.index == 1 or forloop.index == 2  %}
-<img src="/mobi/{{ img.name }}" data-fancybox="gallery" class="full">
+<img src="/mobi/{{ img.name }}" data-src="/mobi/{{ img.name }}" data-fancybox="photo" class="full">
 {% else %}
-<img data-src="/mobi/{{ img.name }}" data-fancybox="gallery" class="full">
+<img data-src="/mobi/{{ img.name }}" data-fancybox="photo" class="full">
 {% endif %}
 {% endfor %}
