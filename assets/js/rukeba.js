@@ -16,9 +16,11 @@ $(document).ready(function () {
 
 	// init lazy images
 	if (window.LazyLoad){
-		new LazyLoad({
-			elements_selector: "img[data-src]"
-		});
+		setTimeout(function () {
+			new LazyLoad({
+				elements_selector: "img[data-src]"
+			});
+		}, 200);
 	}
 
 });

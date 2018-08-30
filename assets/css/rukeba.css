@@ -67,8 +67,8 @@ header .brand {
 }
 header .brand a,
 header .brand a:visited {
-    border-bottom: none;
-    color: darkorange;
+    border-bottom: none !important;
+    color: darkorange !important;
 }
 
 ul {
@@ -154,4 +154,30 @@ pre, pre>code {
     width: 21px;
     border-top: 7px solid #0057b8;
     border-bottom: 7px solid #ffd700;
+}
+
+body.night {
+    background-color: #111;
+    color: #eee;
+}
+
+body.night a:link {
+    color: #b6dcff;
+    border-bottom: 1px solid #6cf;
+}
+body.night a:visited {
+    color:#e8e;
+    border-bottom: 1px solid  #f8f;
+}
+
+body.night header .brand {
+    background-color: #444;
+}
+
+body.night header .nav span.active {
+    background-color: #444;
+}
+
+.post-full .post {
+    max-width: inherit;
 }

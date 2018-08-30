@@ -43,6 +43,8 @@ collections:
     permalink: /songbook/:name/
   2012_moments:
     output: true
+  mobi:
+    output: true
 
 defaults:
   - scope:
