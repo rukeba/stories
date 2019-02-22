@@ -13,6 +13,6 @@ tags: ["done","software"]
 
 Получилась довольно быстрая и интересная реализация. Исходники на Borland Delphi к сожалению не сохранились. Вполне прилично работает и под Wine.
 
-[Скачать life.exe.zip](http://media.rukeba.com/files/life.exe.zip)
+[Скачать life.exe.zip](/assets/files/life.exe.zip)
 
 

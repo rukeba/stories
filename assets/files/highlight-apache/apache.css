@@ -1,0 +1,41 @@
+pre {
+  margin: .5em;
+  padding: .5em;
+  background-color: #f4f4f4;
+}
+
+pre code {
+color: black;
+}
+
+.comment {
+color: #777;
+}
+
+.number,
+.literal {
+color: #a00;
+}
+
+.keyword {
+font-weight: bold;
+color: navy;
+}
+
+.htaccess .sqbracket {
+color: blue;
+}
+
+.htaccess .cbracket {
+color: green;
+}
+
+.htaccess .number {
+color: #800;
+}
+
+.htaccess .tag {
+font-weight: bold;
+color: blue;
+}
+

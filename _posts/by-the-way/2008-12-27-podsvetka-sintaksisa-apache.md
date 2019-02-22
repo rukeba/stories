@@ -16,8 +16,8 @@ tags: ["apache","done","web"]
 шаманства с регулярными выражениями из этого html-файла я получил список всех директив Apache 
 в простом текстовом файле. Дальше, немного потрудившись, получилось и само описание синтаксиса.
 
-[Скачать highlight-apache.zip](http://media.rukeba.com/files/highlight-apache/highlight-apache.zip)  
-[Пример работы](http://media.rukeba.com/files/highlight-apache/apache.html)
+[Скачать highlight-apache.zip](/assets/files/highlight-apache/highlight-apache.zip)
+[Пример работы](/assets/files/highlight-apache/apache.html)
 
 Для использования распакуйте архив на сайте и в html-документах внутри тега `head` необходимо добавить:
 

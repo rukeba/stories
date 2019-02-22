@@ -1,0 +1,45 @@
+<html>
+<head>
+<title>Test case for htaccess highligh</title>
+<link rel="stylesheet" href="apache.css">
+<script src='highlight.js'></script>
+<script src='apache.js'></script>
+<script>hljs.initHighlightingOnLoad();</script>
+</head>
+<body>
+<pre><code># rewrite`s rules for wordpress pretty url
+LoadModule rewrite_module  modules/mod_rewrite.so
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . index.php [NC,L]
+
+ExpiresActive On
+ExpiresByType application/x-javascript  "access plus 1 days"
+
+&lt;Files index.php&gt;
+RewriteRule ^(.*)$ index.php?show=$1
+ExpiresDefault A30
+CacheEnable mem
+&lt;/Files&gt;
+
+&lt;Location /maps/&gt;
+# Set a map variable to access map.txt from config
+RewriteMap map txt:map.txt
+# Use tolower function to convert string to lowercase
+RewriteMap lower int:tolower
+# Get requested file name
+RewriteCond %{REQUEST_URI} ^/([^/.]+)\.html$ [NC]
+# Seek file name in map-file
+RewriteCond ${map:${lower:%1}|NOT_FOUND} !NOT_FOUND
+# Perform rewriting if the record was found in map-file
+RewriteRule .? /index.php?q=${map:${lower:%1}} [NC,L]
+&lt;/Location&gt;
+
+&lt;Directory /var/www/test/&gt;
+RewriteMap examplemap txt:/path/to/file/map.txt 
+RewriteRule ^/ex/(.*) ${examplemap:$1} 
+&lt;/Directory&gt;
+
+AccessFilename .htaccess</code></pre>
+</body>
+</html>
