@@ -27,4 +27,4 @@ permalink: /by-the-way/
 </div>
 {% endfor %}
 
-<p><a href="/by-the-way/all/">Все записи</p>
+<p><a href="/by-the-way/all/">Все записи</a></p>
